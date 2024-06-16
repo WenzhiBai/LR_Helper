@@ -9,7 +9,7 @@ from lr_helper import nbib_parser
 
 # define tests
 def test_extract_doi_from_nbib(file_path):
-    doi_list = nbib_parser.extract_doi_from_nbib(file_path)
+    doi_list = nbib_parser.extract_dois_from_nbib(file_path)
     print('\n'+file_path)
     for doi in doi_list:
         print(doi)

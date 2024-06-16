@@ -1,6 +1,6 @@
 import re
 
-def extract_doi_from_nbib(file_path):
+def extract_dois_from_nbib(file_path):
     doi_list = []
 
     # construct regular expression

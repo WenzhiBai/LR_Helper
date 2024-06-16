@@ -9,7 +9,7 @@ from lr_helper import ris_parser
 
 # define tests
 def test_extract_doi_from_ris(file_path):
-    doi_list = ris_parser.extract_doi_from_ris(file_path)
+    doi_list = ris_parser.extract_dois_from_ris(file_path)
     print('\n'+file_path)
     for doi in doi_list:
         print(doi)
