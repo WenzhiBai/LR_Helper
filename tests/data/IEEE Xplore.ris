@@ -1,0 +1,1642 @@
+TY  - JOUR
+TI  - Development and Validation of a Novel Calibration Methodology and Control Approach for Robot-Aided Transcranial Magnetic Stimulation (TMS)
+T2  - IEEE Transactions on Biomedical Engineering
+SP  - 1589
+EP  - 1600
+AU  - A. Noccaro
+AU  - A. Mioli
+AU  - M. D’Alonzo
+AU  - M. Pinardi
+AU  - G. D. Pino
+AU  - D. Formica
+PY  - 2021
+KW  - Robots
+KW  - Calibration
+KW  - Robot vision systems
+KW  - Cameras
+KW  - Scalp
+KW  - End effectors
+KW  - Transcranial magnetic stimulation
+KW  - Robotic TMS
+KW  - hand-eye and robot-world calibration
+KW  - impedance control
+KW  - calibration methodology
+KW  - neuronavigation
+DO  - 10.1109/TBME.2021.3055434
+JO  - IEEE Transactions on Biomedical Engineering
+IS  - 5
+SN  - 1558-2531
+VO  - 68
+VL  - 68
+JA  - IEEE Transactions on Biomedical Engineering
+Y1  - May 2021
+AB  - Objective: This article presents the development and validation of a new robotic system for Transcranial Magnetic Stimulation (TMS), characterized by a new control approach, and an ad-hoc calibration methodology, specifically devised for the TMS application. Methods: The robotic TMS platform is composed of a 7 dof manipulator, controlled by an impedance control, and a camera-based neuronavigation system. The proposed calibration method was optimized on the workspace useful for the specific TMS application (spherical shell around the subject's head), and tested on three different hand-eye and robot-world calibration algorithms. The platform functionality was tested on six healthy subjects during a real TMS procedure, over the left primary motor cortex. Results: employing our method significantly decreases (p <; 0.001) the calibration error by 34% for the position and 19% for the orientation. The robotic TMS platform achieved greater orientation accuracy than the expert operators, significantly reducing orientation errors by 46% (p <; 0.001). No significant differences were found in the position errors and in the amplitude of the motor evoked potentials (MEPs) between the robot-aided TMS and the expert operators. Conclusion: The proposed calibration represents a valid method to significantly reduce the calibration errors in robot-aided TMS applications. Results showed the efficacy of the proposed platform (including the control algorithm) in administering a real TMS procedure, achieving better coil positioning than expert operators, and similar results in terms of MEPs. Significance: This article spotlights how to improve the performance of a robotic TMS platform, providing a reproducible and low-cost alternative to the few devices commercially available.
+ER  - 
+
+TY  - CONF
+TI  - Transcranial magnetic stimulation affects response time in decision-making tasks
+T2  - 2022 Fourth International Conference Neurotechnologies and Neurointerfaces (CNN)
+SP  - 38
+EP  - 40
+AU  - N. Grigorev
+AU  - A. Savosenkov
+AU  - A. Udoratina
+AU  - A. Kolchina
+AU  - V. Maksimenko
+AU  - S. Gordleeva
+PY  - 2022
+KW  - Visualization
+KW  - Cerebral cortex
+KW  - Transcranial magnetic stimulation
+KW  - Decision making
+KW  - Time factors
+KW  - Task analysis
+KW  - Neurotechnology
+KW  - ambiguous stimuli
+KW  - EEG
+KW  - decision-making
+KW  - rTMS
+KW  - navigational TMS
+KW  - repetitive stimulation
+KW  - response time
+KW  - Necker cube
+KW  - activation zone
+DO  - 10.1109/CNN56452.2022.9912492
+JO  - 2022 Fourth International Conference Neurotechnologies and Neurointerfaces (CNN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 Fourth International Conference Neurotechnologies and Neurointerfaces (CNN)
+Y1  - 14-16 Sept. 2022
+AB  - In this study, we investigate how excitatory transcranial magnetic stimulation (TMS) can influence decision speed in the task of classifying ambiguous visual patterns. 30 healthy volunteers were divided into 2 groups. During two experimental sessions they classified ambiguous Necker cubes. Before the second experimental session, stimulation of the area of the cerebral cortex, which is related to decision-making, was performed. One group received sham stimulation; the other group was stimulated with repetitive TMS (rTMS) for 3 minutes at a frequency of 10 Hz. As a result: the rTMS group significantly (p<0.05) improved their performance in the second session by 0.052 seconds [95%CI - 0.085, -0.005]; the sham group did not improve their result significantly (p=0.844).
+ER  - 
+
+TY  - JOUR
+TI  - Mapping Responses of Lumbar Paravertebral Muscles to Single-Pulse Cortical TMS Using High-Density Surface Electromyography
+T2  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+SP  - 831
+EP  - 840
+AU  - N. Jiang
+AU  - L. Wang
+AU  - Z. Huang
+AU  - G. Li
+PY  - 2021
+KW  - Muscles
+KW  - Electrodes
+KW  - Surface topography
+KW  - Feature extraction
+KW  - Skin
+KW  - Pain
+KW  - Extremities
+KW  - Electromyography
+KW  - biomedical measurement
+KW  - transcranial magnetic stimulation
+KW  - motor evoked potentials
+KW  - trunk muscle
+DO  - 10.1109/TNSRE.2021.3076095
+JO  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+IS  - 
+SN  - 1558-0210
+VO  - 29
+VL  - 29
+JA  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+Y1  - 2021
+AB  - Motor evoked potential (MEP), which was elicited by transcranial magnetic stimulation (TMS), has been widely used to detect corticospinal projection from TMS cortical site to trunk muscles. It can help to find the stimulation hotspot in the scalp. However, it fails to precisely describe coordinated activities of trunk muscle groups with only single-channel myoelectric signal. In this study, we aimed to use high-density surface electromyography (sEMG) to explore the effect of cortical TMS on lumbar paravertebral muscles in healthy subjects. The cortical site at 1 cm anterior and 4 cm lateral to vertex was chosen to simulate using a single-pulse TMS with different intensities and forward-bending angles. A high-density electrode array (45 channels) was placed on the surface of lumbar paravertebral muscles to record sEMG signals during a TMS experiment. MEP signals elicited by TMS were extracted from 45-channel recordings and one topographic map of the MEP amplitudes with six spatial features was constructed at each sampling point. The results showed TMS could successfully evoke an oval area with high intensity in the MEP topographic map, while this area mainly located in ipsilateral side of the TMS site. Intensity features related to the high intensity area rose significantly with TMS intensity and forward-bending angle increasing, but location features showed no change. The optimal stimulation parameters were 80% of maximum stimulator output (MSO) for TMS intensity and 30/60 degree for forward-bending angle. This study provided a potentially effective mapping tool to explore the hotspot for transcranial stimulation on trunk muscles.
+ER  - 
+
+TY  - CONF
+TI  - Haptically-Enabled Robotic Teleoperation for Transcranial Magnetic Stimulation (TeleTMS)
+T2  - 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+SP  - 2100
+EP  - 2105
+AU  - P. M. Kebria
+AU  - S. Nahavandi
+AU  - P. Enticott
+AU  - F. Bello
+PY  - 2023
+KW  - Coils
+KW  - Transcranial magnetic stimulation
+KW  - Scalp
+KW  - Robot sensing systems
+KW  - Magnetic heads
+KW  - Task analysis
+KW  - Telerobotics
+DO  - 10.1109/SMC53992.2023.10394111
+JO  - 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+IS  - 
+SN  - 2577-1655
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+Y1  - 1-4 Oct. 2023
+AB  - Transcranial Magnetic Stimulation (TMS) is a non-invasive and painless technique used in both clinical trials and research on cortical activity and brain networks. TMS involves the use of an electromagnetic coil, which can induce powerful but brief magnetic pulses. When the coil is headed against the scalp, it can induce electrical activity in underlying brain tissue. For effective results, the TMS coil should be in appropriate contact with patients' scalp and positioned for consistent stimulation. In many cases, it requires researchers and clinicians to not only hold and position the coil on subjects' head, also to take care to ensure appropriate and consistent contact between the TMS coil and subject's scalp. This task is noticeably tiresome for the operators considering weight of the coil and a dense cable attached to it. On the other side, the patient or participant has to sit motionless; otherwise, the contact will be lost and the stimulation will have a reduced impact. In this paper, we propose and develop a haptically-enabled teleoperated robotic platform that removes all those limitations and burdensome from both TMS operators and patients/participants. The operator, through a haptic interface, remotely controls a robotic arm holding the coil. This system provides the operator with the sense of touch to feel the contact force between the coil and patient/participant's head. Therefore, operators and patients/participants do not need to be in the same location while conducting TMS, including the “motor thresholding” procedure. This will offer a huge benefit to the healthcare services in rural areas. Experimental evaluations carried out to demonstrate the effectiveness of the proposed robotic system.
+ER  - 
+
+TY  - CONF
+TI  - Anterior TMS Speeds up Responses in Perceptual Decision-making Task
+T2  - 2022 6th Scientific School Dynamics of Complex Networks and their Applications (DCNA)
+SP  - 182
+EP  - 184
+AU  - V. Maksimenko
+AU  - S. Gordleeva
+AU  - N. Grigorev
+AU  - A. Savosenkov
+AU  - A. Kuc
+AU  - A. Udoratina
+AU  - V. Grubov
+AU  - A. Kolchina
+AU  - S. Kurkin
+AU  - V. Kazantsev
+AU  - A. Hramov
+PY  - 2022
+KW  - Electrodes
+KW  - Visualization
+KW  - Protocols
+KW  - Transcranial magnetic stimulation
+KW  - Decision making
+KW  - Process control
+KW  - Complex networks
+KW  - response time
+KW  - TMS
+KW  - visual stimuli
+DO  - 10.1109/DCNA56428.2022.9923178
+JO  - 2022 6th Scientific School Dynamics of Complex Networks and their Applications (DCNA)
+IS  - 
+SN  - 2770-744X
+VO  - 
+VL  - 
+JA  - 2022 6th Scientific School Dynamics of Complex Networks and their Applications (DCNA)
+Y1  - 14-16 Sept. 2022
+AB  - Our preliminary behavioral experiments suggest that the response time decreases when subjects respond to the repeatedly presented visual stimuli. A potential explanation is that the brain preactivates neural ensembles responsible for stimulus processing. If so, activating these areas before the experiment may reduce the response time immediately, opening ways for exciting practical applications. To test this opportunity, we apply transcranial magnetic stimulation (TMS) before the subjects start performing a perceptual decision-making task. Having compared the response time between the TMS and control groups, we observed a significant change confirming our hypothesis.
+ER  - 
+
+TY  - CONF
+TI  - Predicting RTMS Treatment Effects Using Open-Loop Control and Neural Manifold
+T2  - ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+SP  - 2285
+EP  - 2289
+AU  - H. Shi
+AU  - K. Zheng
+AU  - H. Wang
+AU  - B. Li
+AU  - B. Chen
+PY  - 2024
+KW  - Manifolds
+KW  - Neuroimaging
+KW  - Transcranial magnetic stimulation
+KW  - Neural circuits
+KW  - Estimation
+KW  - Signal processing
+KW  - Depression
+KW  - Repetitive Transcranial Magnetic Stimulation (rTMS)
+KW  - Open-Loop Control
+KW  - Manifold Learning
+DO  - 10.1109/ICASSP48485.2024.10448375
+JO  - ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+IS  - 
+SN  - 2379-190X
+VO  - 
+VL  - 
+JA  - ICASSP 2024 - 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+Y1  - 14-19 April 2024
+AB  - Repetitive transcranial magnetic stimulation (rTMS) is a common non-invasive treatment for medication-resistant major depressive disorder (MDD). It utilizes continuous and adjustable magnetic stimulation to modulate neural circuits implicated in the pathogenesis of depression. Nevertheless, constructing a universal and effective predictive factor for forecasting treatment outcomes remains challenging. To address this, we first collect neuroimaging data and five depression scales from 26 medication-resistant MDD patients before and after rTMS treatment. Then we propose a novel framework for predicting treatment effects precisely, which combines open-loop control and neural manifold estimation. This framework utilizes the geometric information of the manifold as a biomarker to predict the therapeutic efficacy of rTMS. Experiments based on the clinical dataset demonstrate the effectiveness and robustness of our framework.
+ER  - 
+
+TY  - CONF
+TI  - No-attachment head tracking method of robotic transcranial magnetic stimulation based on vision sensor
+T2  - 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV)
+SP  - 1366
+EP  - 1371
+AU  - Y. Chen
+AU  - W. Xin
+AU  - L. ZongJie
+AU  - S. HuanRan
+PY  - 2020
+KW  - Head
+KW  - Magnetic heads
+KW  - Cameras
+KW  - Robot kinematics
+KW  - Calibration
+KW  - Faces
+KW  - Magnetic resonance imaging
+DO  - 10.1109/ICARCV50220.2020.9305357
+JO  - 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV)
+Y1  - 13-15 Dec. 2020
+AB  - A vision-based head tracking method for robotic transcranial magnetic stimulation (TMS), requiring no attachments to patient, is proposed to track the movements of patient's head during treatment. First, a facial landmark detection method based on Constrained Local Neural Field (CLNF) algorithm is used. Second, a method of head location and pose estimation is presented and a filter for image restoration is used for a higher accuracy. Finally, calibration approaches are proposed based on the coordinates of the robot arm and camera and real-time motion tracking system. Experiment results indicate that the accuracy and real-time performance of this head tracking method satisfy the requirements of TMS treatment.
+ER  - 
+
+TY  - JOUR
+TI  - Efficient TMS-Based Motor Cortex Mapping Using Gaussian Process Active Learning
+T2  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+SP  - 1679
+EP  - 1689
+AU  - R. Faghihpirayesh
+AU  - M. Yarossi
+AU  - T. Imbiriba
+AU  - D. H. Brooks
+AU  - E. Tunik
+AU  - D. Erdoğmuş
+PY  - 2021
+KW  - Uncertainty
+KW  - Planning
+KW  - Machine learning
+KW  - Robot sensing systems
+KW  - Probability density function
+KW  - Muscles
+KW  - Kernel
+KW  - Active learning
+KW  - entropy
+KW  - Gaussian process
+KW  - machine learning
+KW  - motor cortex
+KW  - motor evoked potentials
+KW  - transcranial magnetic stimulation
+DO  - 10.1109/TNSRE.2021.3105644
+JO  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+IS  - 
+SN  - 1558-0210
+VO  - 29
+VL  - 29
+JA  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+Y1  - 2021
+AB  - Transcranial Magnetic Stimulation (TMS) can be used to map cortical motor topography by spatially sampling the sensorimotor cortex while recording Motor Evoked Potentials (MEP) with surface electromyography (EMG). Traditional sampling strategies are time-consuming and inefficient, as they ignore the fact that responsive sites are typically sparse and highly spatially correlated. An alternative approach, commonly employed when TMS mapping is used for presurgical planning, is to leverage the expertise of the coil operator to use MEPs elicited by previous stimuli as feedback to decide which loci to stimulate next. In this paper, we propose to automatically infer optimal future stimulus loci using active learning Gaussian Process-based sampling in place of user expertise. We first compare the user-guided (USRG) method to the traditional grid selection method and randomized sampling to verify that the USRG approach has superior performance. We then compare several novel active Gaussian Process (GP) strategies with the USRG approach. Experimental results using real data show that, as expected, the USRG method is superior to the grid and random approach in both time efficiency and MEP map accuracy. We also found that an active warped GP entropy and a GP random-based strategy performed equally as well as, or even better than, the USRG method. These methods were completely automatic, and succeeded in efficiently sampling the regions in which the MEP response variations are largely confined. This work provides the foundation for highly efficient, fully automatized TMS mapping, especially when considered in the context of advances in robotic coil operation.
+ER  - 
+
+TY  - JOUR
+TI  - Closed-Loop Construction and Analysis of Cortico-Muscular-Cortical Functional Network After Stroke
+T2  - IEEE Transactions on Medical Imaging
+SP  - 1575
+EP  - 1586
+AU  - J. Liu
+AU  - G. Tan
+AU  - J. Wang
+AU  - Y. Wei
+AU  - Y. Sheng
+AU  - H. Chang
+AU  - Q. Xie
+AU  - H. Liu
+PY  - 2022
+KW  - Muscles
+KW  - Brain modeling
+KW  - Frequency-domain analysis
+KW  - Electroencephalography
+KW  - Couplings
+KW  - Electromyography
+KW  - Hospitals
+KW  - Stroke
+KW  - functional network
+KW  - connectivity
+KW  - interaction
+KW  - repetitive transcranial magnetic stimulation
+DO  - 10.1109/TMI.2022.3143133
+JO  - IEEE Transactions on Medical Imaging
+IS  - 6
+SN  - 1558-254X
+VO  - 41
+VL  - 41
+JA  - IEEE Transactions on Medical Imaging
+Y1  - June 2022
+AB  - Brain networks allow a topological understanding into the pathophysiology of stroke-induced motor deficits, and have been an influential tool for investigating brain functions. Unfortunately, currently applied methods generally lack in the recognition of the dynamic changes in the cortical networks related to muscle activity, which is crucial to clarify the alterations of the cooperative working patterns in the motor control system after stroke. In this study, we integrate corticomuscular and intermuscular interactions to cortico-cortical network and propose a novel closed-loop construction of cortico-muscular-cortical functional network, named closed-loop network (CLN). Directional characteristic in terms of differentiating causal interactions is endowed on basis of the CLN framework, further expanding the definition of functional connectivity (FC) and effective connectivity (EC) dedicated to CLN. Next, CLN is applied to stroke patients to reveal the underlying after-effects mechanism of low frequency repetitive transcranial magnetic stimulation (rTMS) induced alterations of cortical physiologic functions during movement. Results show that the short-term modulation of rTMS is reflected in the enhancement of information interaction within the interhemispheric primary motor regions and inhibition of the coupling between motor cortex and effector muscles. CLN provides a new perspective for the study of motor-related cortical networks with muscle activities involvement instead of being restricted to brain network analysis of behaviors.
+ER  - 
+
+TY  - CONF
+TI  - Functional TMS Mapping During Sensorimotor Integration Task
+T2  - 2023 Fifth International Conference Neurotechnologies and Neurointerfaces (CNN)
+SP  - 108
+EP  - 110
+AU  - A. Udoratina
+AU  - N. Grigorev
+AU  - A. Savosenkov
+AU  - D. Ermolaev
+AU  - V. Maksimenko
+AU  - S. Gordleeva
+PY  - 2023
+KW  - Training
+KW  - Radio frequency
+KW  - Visualization
+KW  - Optical fiber sensors
+KW  - Process control
+KW  - Spatiotemporal phenomena
+KW  - Time factors
+KW  - sensorimotor integration
+KW  - TMS
+KW  - response time
+DO  - 10.1109/CNN59923.2023.10275302
+JO  - 2023 Fifth International Conference Neurotechnologies and Neurointerfaces (CNN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 Fifth International Conference Neurotechnologies and Neurointerfaces (CNN)
+Y1  - 18-20 Sept. 2023
+AB  - In the present research, we studied spatiotemporal influence of a single-pulse TMS on the process of sensorimotor integration. We considered how real and sham stimulation of the left or right premotor, motor or sensorimotor cortex, delivered 200 or 800 ms after the demonstration of a visual stimuli, affected response time of subjects during sensorimotor integration task. At this stage of the study, we found that a single TMS of the sensorimotor cortex, delivered 800 ms after stimulus presentation, increases response time.
+ER  - 
+
+TY  - JOUR
+TI  - Brain-Computer Interface-Based Soft Robotic Glove Rehabilitation for Stroke
+T2  - IEEE Transactions on Biomedical Engineering
+SP  - 3339
+EP  - 3351
+AU  - N. Cheng
+AU  - K. S. Phua
+AU  - H. S. Lai
+AU  - P. K. Tam
+AU  - K. Y. Tang
+AU  - K. K. Cheng
+AU  - R. C. -H. Yeow
+AU  - K. K. Ang
+AU  - C. Guan
+AU  - J. H. Lim
+PY  - 2020
+KW  - Soft robotics
+KW  - Stroke (medical condition)
+KW  - Electroencephalography
+KW  - Task analysis
+KW  - Medical treatment
+KW  - Visualization
+KW  - Brain-computer interface
+KW  - EEG
+KW  - glove
+KW  - motor imagery
+KW  - soft robotics
+KW  - stroke rehabilitation
+DO  - 10.1109/TBME.2020.2984003
+JO  - IEEE Transactions on Biomedical Engineering
+IS  - 12
+SN  - 1558-2531
+VO  - 67
+VL  - 67
+JA  - IEEE Transactions on Biomedical Engineering
+Y1  - Dec. 2020
+AB  - Objective: This randomized controlled feasibility study investigates the ability for clinical application of the Brain-Computer Interface-based Soft Robotic Glove (BCI-SRG) incorporating activities of daily living (ADL)-oriented tasks for stroke rehabilitation. Methods: Eleven recruited chronic stroke patients were randomized into BCI-SRG or Soft Robotic Glove (SRG) group. Each group underwent 120-minute intervention per session comprising 30-minute standard arm therapy and 90-minute experimental therapy (BCI-SRG or SRG). To perform ADL tasks, BCI-SRG group used motor imagery-BCI and SRG, while SRG group used SRG without motor imagery-BCI. Both groups received 18 sessions of intervention over 6 weeks. Fugl-Meyer Motor Assessment (FMA) and Action Research Arm Test (ARAT) scores were measured at baseline (week 0), post- intervention (week 6), and follow-ups (week 12 and 24). In total, 10/11 patients completed the study with 5 in each group and 1 dropped out. Results: Though there were no significant intergroup differences for FMA and ARAT during 6-week intervention, the improvement of FMA and ARAT seemed to sustain beyond 6-week intervention for BCI-SRG group, as compared with SRG control. Incidentally, all BCI-SRG subjects reported a sense of vivid movement of the stroke-impaired upper limb and 3/5 had this phenomenon persisting beyond intervention while none of SRG did. Conclusion: BCI-SRG suggested probable trends of sustained functional improvements with peculiar kinesthetic experience outlasting active intervention in chronic stroke despite the dire need for large-scale investigations to verify statistical significance. Significance: Addition of BCI to soft robotic training for ADL-oriented stroke rehabilitation holds promise for sustained improvements as well as elicited perception of motor movements.
+ER  - 
+
+TY  - JOUR
+TI  - A Generalized Cortico-Muscular-Cortical Network to Evaluate the Effects of Three-Week Brain Stimulation
+T2  - IEEE Transactions on Biomedical Engineering
+SP  - 195
+EP  - 206
+AU  - J. Liu
+AU  - J. Wang
+AU  - G. Tan
+AU  - Y. Sheng
+AU  - L. Feng
+AU  - T. Tang
+AU  - X. Li
+AU  - Q. Xie
+AU  - H. Liu
+AU  - Y. Wei
+PY  - 2024
+KW  - Electroencephalography
+KW  - Stroke (medical condition)
+KW  - Muscles
+KW  - Electromyography
+KW  - Couplings
+KW  - Task analysis
+KW  - Synchronization
+KW  - Transcranial magnetic stimulation
+KW  - stroke
+KW  - motor function
+KW  - connectivity
+KW  - brain network
+DO  - 10.1109/TBME.2023.3294509
+JO  - IEEE Transactions on Biomedical Engineering
+IS  - 1
+SN  - 1558-2531
+VO  - 71
+VL  - 71
+JA  - IEEE Transactions on Biomedical Engineering
+Y1  - Jan. 2024
+AB  - Objective: Post-stroke transcranial magnetic stimulation (TMS) has gradually become a brain intervention to assist patients in the recovery of motor function. The long lasting regulatory of TMS may involve the coupling changes between cortex and muscles. However, the effects of multi-day TMS on motor recovery after stroke is unclear. Methods: This study proposed to quantify the effects of three-week TMS on brain activity and muscles movement performance based on a generalized cortico-muscular-cortical network (gCMCN). The gCMCN-based features were further extracted and combined with the partial least squares (PLS) method to predict the Fugl-Meyer of upper extremity (FMUE) in stroke patients, thereby establishing an objective rehabilitation method that can evaluate the positive effects of continuous TMS on motor function. Results: We found that the improvement of motor function after three-week TMS was significantly correlated with the complexity trend of information interaction between hemispheres and the intensity of corticomuscular coupling. In addition, the fitting coefficient (${{\bm{R}}}^2$) for predicted and actual FMUE before and after TMS were 0.856 and 0.963, respectively, suggesting that the gCMCN-based measurement may be a promising method for evaluating the therapeutic effect of TMS. Conclusion: From the perspective of a novel brain-muscles network with dynamic contraction as the entry point, this work quantified TMS-induced connectivity differences while evaluating the potential efficacy of multi-day TMS. Significance: It provides a unique insight for the further application of intervention therapy in the field of brain diseases.
+ER  - 
+
+TY  - CONF
+TI  - Innovative Wearable Solutions for Monoplegia: A Thorough Examination of Recent Technological Progress in Therapeutic Devices
+T2  - 2024 10th International Conference on Communication and Signal Processing (ICCSP)
+SP  - 1303
+EP  - 1308
+AU  - S. Sankaran
+AU  - T. Arunprasath
+AU  - P. I. Britto
+AU  - C. K. Reshmi
+AU  - R. Sugapriya
+AU  - B. Vijayadharshini
+PY  - 2024
+KW  - Neurological diseases
+KW  - Surveys
+KW  - Transcranial magnetic stimulation
+KW  - Medical treatment
+KW  - Signal processing
+KW  - Motors
+KW  - Iron
+KW  - Monoplegia
+KW  - Wearable band
+KW  - FES method
+DO  - 10.1109/ICCSP60870.2024.10544283
+JO  - 2024 10th International Conference on Communication and Signal Processing (ICCSP)
+IS  - 
+SN  - 2836-1873
+VO  - 
+VL  - 
+JA  - 2024 10th International Conference on Communication and Signal Processing (ICCSP)
+Y1  - 12-14 April 2024
+AB  - Monoplegia, a type of paralysis concentrated in a single limb, particularly the arm, affects millions of individuals worldwide. With approximately 1 in 50 people grappling with some form of paralysis, monoplegia accounts for a significant majority at 90%. While existing methods such as robotic hand gloves, VR techniques, and FES methods have been utilized to assist monoplegia patients, there is an opportunity to develop a more effective solution. Through the creation of a wearable therapeutic device specifically designed for individuals suffering from monoplegia, better therapy and support can be provided to improve their quality of life. Monoplegia represents a type of paralysis concentrated in a single limb, commonly the arm. Individuals experiencing monoplegia typically retain control over the remainder of their body but encounter difficulty moving or feeling sensations in the affected limb. Statistics from the report indicate that approximately 1 in 50 individuals grapple with some form of paralysis, affecting roughly 5.4 million people. Notably, monoplegia constitutes 90% of these cases, with the remaining 10% attributed to other variations of paralysis. There are many existing methods available for monoplegia patients, such as robotic hand gloves, VR method, and FES method; however, after a thorough survey of related work, the idea of developing a wearable therapeutic device for monoplegia patients will be a better replacement for the existing method. In light of this, a wearable therapeutic gadget for individuals suffering from monoplegia has to be developed to provide better therapy for the patients. The suggested wearable therapeutic gadget would be beneficial to individuals suffering from monoplegia paralysis.
+ER  - 
+
+TY  - JOUR
+TI  - Bias Estimation and Gravity Compensation for Wrist-Mounted Force/Torque Sensor
+T2  - IEEE Sensors Journal
+SP  - 17625
+EP  - 17634
+AU  - Y. Yu
+AU  - R. Shi
+AU  - Y. Lou
+PY  - 2022
+KW  - Sensors
+KW  - Robots
+KW  - Robot sensing systems
+KW  - Gravity
+KW  - Robot kinematics
+KW  - End effectors
+KW  - Torque
+KW  - Force sensor
+KW  - robotics
+KW  - calibration
+KW  - gravity compensation
+DO  - 10.1109/JSEN.2021.3056943
+JO  - IEEE Sensors Journal
+IS  - 18
+SN  - 1558-1748
+VO  - 22
+VL  - 22
+JA  - IEEE Sensors Journal
+Y1  - 15 Sept.15, 2022
+AB  - Robot force-controlled task executions require an accurate perception of the contact force/torque. When a six-axis force/torque (F/T) sensor is attached to the robot wrist, the compensation precision is affected by many non-contact features, such as the end-effector gravity, inertial, centrifugal, Coriolis forces, and the mechanical errors of the sensor. However, it is complicated to identify all parameters at the same time. Some features will be ignored in practice applications, e.g., surface finishing, human-robot interaction, and haptic applications. In this article, a novel end-effector gravity compensation method for the F/T sensor is proposed, which identifies the end-effector gravity, its center, and the biases (the rotation between the sensor and robot, the robot installation declination, the bias of sensor). Our key is the rotation calibration while the transformation between the F/T sensor and robot is unknown. Simulation and experimental results show that the proposed method works effectively. In a wrist-mounted F/T sensor system, compared to the previous limited method, the compensation error in common force control channel  $F_{z}$  by our method diminishes 1.0% of the end-effector gravity (i.e., 21.7% relative improvement).
+ER  - 
+
+TY  - CONF
+TI  - Robot Assisted Neurosurgery for High-Accuracy, Minimally-Invasive Deep Brain Electrophysiology in Monkeys
+T2  - 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+SP  - 3115
+EP  - 3118
+AU  - J. C. Ho
+AU  - L. Liang
+AU  - E. M. Grigsby
+AU  - J. Balaguer
+AU  - V. Karapetyan
+AU  - D. J. Schaeffer
+AU  - A. C. Silva
+AU  - T. K. Hitchens
+AU  - M. Capogrosso
+AU  - P. C. Gerszten
+AU  - J. A. Gonzalez-Martinez
+AU  - E. Pirondini
+PY  - 2022
+KW  - Spinal cord
+KW  - Animals
+KW  - Deep brain stimulation
+KW  - Biology
+KW  - Recording
+KW  - Probes
+KW  - Robots
+DO  - 10.1109/EMBC48229.2022.9871520
+JO  - 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+IS  - 
+SN  - 2694-0604
+VO  - 
+VL  - 
+JA  - 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+Y1  - 11-15 July 2022
+AB  - Traditional methods to access subcortical structures involve the use of anatomical atlases and high precision stereotaxic frames but suffer from significant variations in implantation accuracy. Here, we leveraged the use of the ROSA One(R) Robot Assistance Platform in non-human primates to study electrophysiological interactions of the corticospinal tract with spinal cord circuits. We were able to target and stimulate the corticospinal tract within the internal capsule with high accuracy and efficiency while recording spinal local field potentials and multi-unit spikes. Our method can be extended to any subcortical structure and allows implantation of multiple deep brain stimulation probes at the same time. Clinical Relevance— Our method will allow us to elucidate further roles of the corticospinal tract and its interactions with other processing centers in intact animals and in motor syndromes in the future
+ER  - 
+
+TY  - JOUR
+TI  - Magnetically Steered Robotic Insertion of Cochlear-Implant Electrode Arrays: System Integration and First-In-Cadaver Results
+T2  - IEEE Robotics and Automation Letters
+SP  - 2240
+EP  - 2247
+AU  - T. L. Bruns
+AU  - K. E. Riojas
+AU  - D. S. Ropella
+AU  - M. S. Cavilla
+AU  - A. J. Petruska
+AU  - M. H. Freeman
+AU  - R. F. Labadie
+AU  - J. J. Abbott
+AU  - R. J. Webster
+PY  - 2020
+KW  - Magnetic resonance imaging
+KW  - Robots
+KW  - Tools
+KW  - Magnetic moments
+KW  - Magnetic cores
+KW  - Surgery
+KW  - Temperature measurement
+KW  - Medical robots and systems
+KW  - surgical robotics: steerable catheters/needles
+DO  - 10.1109/LRA.2020.2970978
+JO  - IEEE Robotics and Automation Letters
+IS  - 2
+SN  - 2377-3766
+VO  - 5
+VL  - 5
+JA  - IEEE Robotics and Automation Letters
+Y1  - April 2020
+AB  - Cochlear-implant electrode arrays (EAs) must be inserted accurately and precisely to avoid damaging the delicate anatomical structures of the inner ear. It has previously been shown on the benchtop that using magnetic fields to steer magnet-tipped EAs during insertion reduces insertion forces, which correlate with insertion errors and damage to internal cochlear structures. This letter presents several advancements toward the goal of deploying magnetic steering of cochlear-implant EAs in the operating room. In particular, we integrate image guidance with patient-specific insertion vectors, we incorporate a new nonmagnetic insertion tool, and we use an electromagnetic source, which provides programmable control over the generated field. The electromagnet is safer than prior permanent-magnet approaches in two ways: it eliminates motion of the field source relative to the patient's head and creates a field-free source in the power-off state. Using this system, we demonstrate system feasibility by magnetically steering EAs into a cadaver cochlea for the first time. We show that magnetic steering decreases average insertion forces, in comparison to manual insertions and to image-guided robotic insertions alone.
+ER  - 
+
+TY  - CONF
+TI  - Scalable. Intuitive Human to Robot Skill Transfer with Wearable Human Machine Interfaces: On Complex, Dexterous Tasks
+T2  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+SP  - 6318
+EP  - 6325
+AU  - F. Sanches
+AU  - G. Gao
+AU  - N. Elangovan
+AU  - R. V. Godoy
+AU  - J. Chapman
+AU  - K. Wang
+AU  - P. Jarvis
+AU  - M. Liarokapis
+PY  - 2023
+KW  - Visualization
+KW  - Service robots
+KW  - Optical recording
+KW  - End effectors
+KW  - Trajectory
+KW  - Optical reflection
+KW  - Optical sensors
+DO  - 10.1109/IROS55552.2023.10341661
+JO  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+IS  - 
+SN  - 2153-0866
+VO  - 
+VL  - 
+JA  - 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+Y1  - 1-5 Oct. 2023
+AB  - The advent of collaborative industrial and house-hold robotics has blurred the demarcation between the human and robot workspace. The capability of robots to function efficiently alongside humans requires new research to be conducted in dynamic environments as opposed to the traditional well-structured laboratory. In this work, we propose an efficient skill transfer methodology comprising intuitive interfaces, efficient optical tracking systems, and compliant control of robotic arm-hand systems. The lightweight wearable interfaces mounted with robotic grippers and hands allow the execution of dexterous activities in dynamic environments without restricting human dexterity. The fiducial and reflective markers mounted on the interfaces facilitate the extraction of positional and rotational information allowing efficient trajectory tracking. As the tasks are performed using the mounted grippers and hands, gripper state information can be directly transferred. The hardware-agnostic nature and efficiency of the proposed interfaces and skill transfer methodology are demonstrated through the execution of complex tasks that require increased dexterity, writing and drawing.
+ER  - 
+
+TY  - JOUR
+TI  - Development of a Parallel Robotic Positioning System With Specific Workspace for Noninvasive Brain Stimulation
+T2  - IEEE/ASME Transactions on Mechatronics
+SP  - 2450
+EP  - 2461
+AU  - W. Ryu
+AU  - J. Kim
+AU  - S. Kim
+AU  - Y. J. Choi
+AU  - S. Lee
+PY  - 2022
+KW  - Robots
+KW  - Safety
+KW  - Magnetic heads
+KW  - Head
+KW  - Brain stimulation
+KW  - Kinematics
+KW  - Diseases
+KW  - Noninvasive brain stimulation
+KW  - parallel mechanism
+KW  - robotic positioning system
+KW  - workspace
+DO  - 10.1109/TMECH.2021.3114852
+JO  - IEEE/ASME Transactions on Mechatronics
+IS  - 5
+SN  - 1941-014X
+VO  - 27
+VL  - 27
+JA  - IEEE/ASME Transactions on Mechatronics
+Y1  - Oct. 2022
+AB  - Brain stimulation using noninvasive methods has been widely adopted in neuropsychiatric disorder therapies. Clinicians who use the innovative methods situate the stimulator manually in a typical setup. However, this causes practical difficulties in precisely locating the stimulation device at a desired pose. This article proposes a robotic positioning system that can precisely position a brain stimulation device at the desired pose. The design concepts are focused on the development of a system with a workspace specialized in noninvasive brain stimulation. To stimulate the overall area around the upper part of the head, the system is designed to have a specific posture with a six-degrees-of-freedom (6-DOF) movable parallel mechanism and a 1-DOF extra revolute joint. The combined system not only significantly increases the workspace of the system but also increases its physical safety. In the movable parallel mechanism, we realize sufficient mobility for the robotic device using three-${\bar{\bf{P}}}$ RPS chains (${\bar{\bf{P}}}$: curved prismatic joint, R: revolute joint, P: prismatic joint, and S: spherical joint). The curved prismatic joint (${\bar{\bf{P}}}$) is a revolute joint realized by curved rail and enables efficient movement of the stimulator around the subject's head. Furthermore, the parallel mechanism offers good physical safety and load-carrying capacity. The moving platform, which is close to the head, exhibits low inertia, and there is no rapid change in the acceleration due to the failure of control because the moving platform is moved as a combination of joint movements. The system can accommodate stimulators of varying weights, such as those employing transcranial magnetic stimulation and ultrasound transducers. A prototype of the proposed system was developed using the design specifications, and its performance was verified experimentally.
+ER  - 
+
+TY  - JOUR
+TI  - Functional Resistance Training With Viscous and Elastic Devices: Does Resistance Type Acutely Affect Knee Function?
+T2  - IEEE Transactions on Biomedical Engineering
+SP  - 1274
+EP  - 1285
+AU  - E. P. Washabaugh
+AU  - T. E. Augenstein
+AU  - M. Koje
+AU  - C. Krishnan
+PY  - 2023
+KW  - Training
+KW  - Immune system
+KW  - Muscles
+KW  - Legged locomotion
+KW  - Knee
+KW  - Particle measurements
+KW  - Electrical resistance measurement
+KW  - Gait
+KW  - passive
+KW  - spring
+KW  - magnetic eddy current brake
+KW  - statistical parametric mapping
+KW  - therapy
+KW  - transcranial magnetic stimulation
+KW  - TMS
+KW  - electrical stimulation
+DO  - 10.1109/TBME.2022.3214773
+JO  - IEEE Transactions on Biomedical Engineering
+IS  - 4
+SN  - 1558-2531
+VO  - 70
+VL  - 70
+JA  - IEEE Transactions on Biomedical Engineering
+Y1  - April 2023
+AB  - Objective: Functional resistance training (FRT) during walking is an emerging approach for rehabilitating individuals with neuromuscular or orthopedic injuries. During FRT, wearable exoskeleton/braces can target resistance to a weakened leg joint; however, the resistive properties of the training depend on the type of resistive elements used in the device. Hence, this study was designed to examine how the biomechanical and neural effects of functional resistance training differ with viscous and elastic resistances during both treadmill and overground walking. Methods: Fourteen able-bodied individuals were trained on two separate sessions with two devices that provided resistance to the knee (viscous and elastic) while walking on a treadmill. We measured gait biomechanics and muscle activation during training, as well as kinematic aftereffects and changes in peripheral fatigue and neural excitability after training. Results: We found the resistance type differentially altered gait kinetics during training—elastic resistance increased knee extension during stance while viscous resistance primarily affected swing. Also, viscous resistance increased power generation while elastic resistance could increase power absorption. Both devices resulted in significant kinematic and neural aftereffects. However, overground kinematic aftereffects and neural excitability did not differ between devices. Conclusion: Different resistance types can be used to alter gait biomechanics during training. While there were no resistance-specific changes in acute neural adaptation following training, it is still possible that prolonged and repeated training could produce differential effects. Significance: Resistance type alters the kinetics of functional resistance training. Prolonged and repeated training sessions on patients will be needed to further measure the effects of these devices.
+ER  - 
+
+TY  - JOUR
+TI  - Closed-Loop Estimation of Individualized Inter-Stimulus Interval Window for Transient Neuromodulation via Paired Mechanical and Brain Stimulation
+T2  - IEEE Transactions on Medical Robotics and Bionics
+SP  - 110
+EP  - 119
+AU  - H. A. Nieves-Vazquez
+AU  - E. Kim
+AU  - J. Ueda
+PY  - 2023
+KW  - Medical robotics
+KW  - Valves
+KW  - Biomimetics
+KW  - Tendons
+KW  - Muscles
+KW  - Accelerometers
+KW  - Timing
+KW  - Closed-loop systems
+KW  - medical robotics
+KW  - neuroscience
+KW  - rehabilitation robotics
+DO  - 10.1109/TMRB.2023.3237869
+JO  - IEEE Transactions on Medical Robotics and Bionics
+IS  - 1
+SN  - 2576-3202
+VO  - 5
+VL  - 5
+JA  - IEEE Transactions on Medical Robotics and Bionics
+Y1  - Feb. 2023
+AB  - Mechanical stimulation-conditioned transcranial magnetic stimulation (Mstim-cTMS) is a neuromodulation technique that transiently enhances neural excitability through paired peripheral and cortical stimulation. Importantly, the temporal inter-stimulus interval (ISI) must fall within an individual’s specific ISI window (ISI-W) to induce neuromodulatory effects. Currently, ISI-W identification is inefficient, incrementally applying Mstim-cTMS within a wide search range. This paper aims to test a real-time, closed-loop framework that decreases the number of trials required to obtain individualized ISI-Ws by implementing a previously developed statistical regression algorithm. Each Mstim-cTMS trial consisted of peripheral mechanical stimulation using a precise, tapping robot paired with transcranial magnetic stimulation to the motor cortex. Neuromodulation was characterized by measuring resulting motor evoked potentials (MEPs). The closed-loop process estimated the effective ISI-W by iterating Mstim-cTMS at statistically determined ISIs based on the detected MEPs. The estimated ISI-Ws of two subjects had an average correlation coefficient of 0.84 with their reference windows obtained using the conventional search method. The estimation reduced the number of required Mstim-cTMS trials by an average of 93.8%. The results indicate the proposed method’s potential for decreasing Mstim-cTMS startup durations. Future rehabilitation and neurophysiological studies can benefit from efficiently updating ISI-Ws to account for long-term neural variability.
+ER  - 
+
+TY  - JOUR
+TI  - A BCI-Based Vibrotactile Neurofeedback Training Improves Motor Cortical Excitability During Motor Imagery
+T2  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+SP  - 1583
+EP  - 1592
+AU  - N. A. Grigorev
+AU  - A. O. Savosenkov
+AU  - M. V. Lukoyanov
+AU  - A. Udoratina
+AU  - N. N. Shusharina
+AU  - A. Y. Kaplan
+AU  - A. E. Hramov
+AU  - V. B. Kazantsev
+AU  - S. Gordleeva
+PY  - 2021
+KW  - Training
+KW  - Noise measurement
+KW  - Visualization
+KW  - Task analysis
+KW  - Electroencephalography
+KW  - Protocols
+KW  - Magnetic resonance imaging
+KW  - Brain–computer interfaces (BCI)
+KW  - vibrotactile feedback
+KW  - motor imagery (MI)
+KW  - event-related desynchronization (ERD)
+KW  - motor cortical excitability
+KW  - navigated transcranial magnetic stimulation (nTMS)
+KW  - motor evoked potentials (MEPs)
+DO  - 10.1109/TNSRE.2021.3102304
+JO  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+IS  - 
+SN  - 1558-0210
+VO  - 29
+VL  - 29
+JA  - IEEE Transactions on Neural Systems and Rehabilitation Engineering
+Y1  - 2021
+AB  - In this study, we address the issue of whether vibrotactile feedback can enhance the motor cortex excitability translated into the plastic changes in local cortical areas during motor imagery (MI) BCI-based training. For this purpose, we focused on two of the most notable neurophysiological effects of MI - the event-related desynchronization (ERD) level and the increase in cortical excitability assessed with navigated transcranial magnetic stimulation (nTMS). For TMS navigation, we used individual high-resolution 3D brain MRIs. Ten BCI-naive and healthy adults participated in this study. The MI (rest or left/right hand imagery using Graz-BCI paradigm) tasks were performed separately in the presence and absence of feedback. To investigate how much the presence/absence of vibrotactile feedback in MI BCI-based training could contribute to the sensorimotor cortical activations, we compared the MEPs amplitude during MI after training with and without feedback. In addition, the ERD levels during MI BCI-based training were investigated. Our findings provide evidence that applying vibrotactile feedback during MI training leads to (i) an enhancement of the desynchronization level of mu-rhythm EEG patterns over the contralateral motor cortex area corresponding to the MI of the non-dominant hand; (ii) an increase in motor cortical excitability in hand muscle representation corresponding to a muscle engaged by the MI.
+ER  - 
+
+TY  - JOUR
+TI  - Functional Resistance Training During Walking: Do Biomechanical and Neural Effects Differ Based on Targeted Joints?
+T2  - IEEE Transactions on Medical Robotics and Bionics
+SP  - 632
+EP  - 642
+AU  - E. P. Washabaugh
+AU  - C. Krishnan
+PY  - 2024
+KW  - Knee
+KW  - Training
+KW  - Legged locomotion
+KW  - Immune system
+KW  - Hip
+KW  - Particle measurements
+KW  - Atmospheric measurements
+KW  - Loading
+KW  - task-specific
+KW  - transcranial magnetic stimulation
+KW  - electromyography
+KW  - physical therapy
+KW  - statistical parametric mapping
+DO  - 10.1109/TMRB.2024.3369894
+JO  - IEEE Transactions on Medical Robotics and Bionics
+IS  - 2
+SN  - 2576-3202
+VO  - 6
+VL  - 6
+JA  - IEEE Transactions on Medical Robotics and Bionics
+Y1  - May 2024
+AB  - Devices for functional resistance training (FRT) during walking are often configured to resist the knee or both the hip and knee joints. Adding resistance to the hip in addition to the knee should alter the effects of training; however, these configurations have not been directly compared. We examined how FRT during walking differs during the knee or hip and knee conditions. Fourteen non-disabled individuals received FRT during treadmill walking with a device configured to provide a viscous resistance to the knee or the hip and knee during separate visits. Between these configurations, we compared gait kinetics, muscle activation, kinematic aftereffects, peripheral fatigue, and corticospinal excitability. Adding resistance to the hip increased hip flexion moment and concentric power during the swing phase. However, this did not result in significant differences in muscle activation, aftereffects, peripheral fatigue, or corticospinal excitability between the configurations. Instead, both configurations produced similar changes in these variables. These results indicate that, aside from kinetics, walking with resistance at the hip and knee was not different from resisting the knee in the acute setting. However, further research is needed to determine if long-term training with resistance at the hip induces differential effects than resisting the knee alone.
+ER  - 
+
+TY  - JOUR
+TI  - Geometry-Aware Safety-Critical Local Reactive Controller for Robot Navigation in Unknown and Cluttered Environments
+T2  - IEEE Robotics and Automation Letters
+SP  - 3419
+EP  - 3426
+AU  - Y. Li
+AU  - X. Tang
+AU  - K. Chen
+AU  - C. Zheng
+AU  - H. Liu
+AU  - J. Ma
+PY  - 2024
+KW  - Robots
+KW  - Safety
+KW  - Optimization
+KW  - Geometry
+KW  - Collision avoidance
+KW  - Task analysis
+KW  - Real-time systems
+KW  - Collision avoidance
+KW  - motion control
+KW  - optimization and optimal control
+DO  - 10.1109/LRA.2024.3360809
+JO  - IEEE Robotics and Automation Letters
+IS  - 4
+SN  - 2377-3766
+VO  - 9
+VL  - 9
+JA  - IEEE Robotics and Automation Letters
+Y1  - April 2024
+AB  - This work proposes a safety-critical local reactive controller that enables the robot to navigate in unknown and cluttered environments. In particular, the trajectory tracking task is formulated as a constrained polynomial optimization problem. Then, safety constraints are imposed on the control variables invoking the notion of polynomial positivity certificates in conjunction with their Sum-of-Squares (SOS) approximation, thereby confining the robot motion inside the locally extracted convex free region. It is noteworthy that, in the process of devising the proposed safety constraints, the geometry of the robot can be approximated using any shape that can be characterized with a set of polynomial functions. The optimization problem is further convexified into a semidefinite program (SDP) leveraging truncated multi-sequences (TMS) and moment relaxation, which favorably facilitates the effective use of off-the-shelf conic programming solvers, such that real-time performance is attainable. Various robot navigation tasks are investigated to demonstrate the effectiveness of the proposed approach in terms of safety and tracking performance.
+ER  - 
+
+TY  - CONF
+TI  - Preliminary Guidelines for Electrode Positioning in Noninvasive Deep Brain Stimulation via Temporally Interfering Electric Fields
+T2  - 2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM)
+SP  - 739
+EP  - 744
+AU  - M. Zibandepour
+AU  - A. Shojaei
+AU  - A. A. Larki
+AU  - M. Delrobaei
+PY  - 2023
+KW  - Electrodes
+KW  - Deep brain stimulation
+KW  - Safety
+KW  - Electric fields
+KW  - Neuromodulation
+KW  - Robots
+KW  - Guidelines
+KW  - Biomechatronic systems
+KW  - transcranial stimulation
+KW  - neuromodulation
+KW  - electrode placement
+KW  - current stimulation
+KW  - electrode positioning
+KW  - temporal interfering stimulation
+DO  - 10.1109/ICRoM60803.2023.10412364
+JO  - 2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM)
+IS  - 
+SN  - 2572-6889
+VO  - 
+VL  - 
+JA  - 2023 11th RSI International Conference on Robotics and Mechatronics (ICRoM)
+Y1  - 19-21 Dec. 2023
+AB  - Advancements in neurosurgical robotics have improved medical procedures, particularly deep brain stimulation, where robots combine human and machine intelligence to precisely implant electrodes in the brain. While effective, this procedure carries risks and side effects. Noninvasive deep brain stimulation (NIDBS) offers promise by making brain stimulation safer, more affordable, and accessible. However, NIDBS lacks guidelines for electrode placement. This research delves into applying robotic principles to improve the accuracy of NIDBS targeting and offers preliminary suggestions for transcranial electrode placement. Using the quasi-static finite element method, we conducted computations to analyze the electric potential and field in a human brain model. These findings are crucial for identifying the stimulation parameters within the targeted area. We explored three scenarios to understand the effects of manipulating electrode placement and varying current ratios. Our study results provide a preliminary guideline, shedding light on the exact area and depth activated through adjusting electrode configurations and current ratios. We also emphasized safety considerations to maintain a delicate balance between therapeutic effectiveness and patient safety, ensuring the electric fields remain within secure limits.
+ER  - 
+
+TY  - CONF
+TI  - Prediction of Single Trial Somatosensory Evoked Potentials From Mechanical Stimulation Intensity
+T2  - 2022 International Conference on Rehabilitation Robotics (ICORR)
+SP  - 1
+EP  - 6
+AU  - W. Meinhold
+AU  - H. A. Nieves-Vazquez
+AU  - J. Ueda
+PY  - 2022
+KW  - Estimation error
+KW  - Measurement uncertainty
+KW  - Medical treatment
+KW  - Robot sensing systems
+KW  - Assistive robots
+KW  - Noise measurement
+KW  - Tendons
+DO  - 10.1109/ICORR55369.2022.9896482
+JO  - 2022 International Conference on Rehabilitation Robotics (ICORR)
+IS  - 
+SN  - 1945-7901
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Rehabilitation Robotics (ICORR)
+Y1  - 25-29 July 2022
+AB  - Somatosensory evoked potentials (SSEPs) are important for both scientific research and the evaluation of treatment efficacy in neurorehabilitation. SSEPs measure the response in the sensorimotor cortex to a peripheral stimulation. Individual responses are often noisy, so SSEPs have typically required hundreds of stimulation-response trials to produce a single measurement. This work presents a method to estimate single trial SSEPs from tendon hammer accelerations. While predictions from the input side can not completely replace actual measurements of SSEPs, the results produced may help to provide clinicians insight where full scale SSEP measurement is not practical.
+ER  - 
+
+TY  - CONF
+TI  - Cortical Hemodynamic Response to Multi-afferent Stimulation: an optical imaging study
+T2  - 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+SP  - 2913
+EP  - 2916
+AU  - B. Bo
+AU  - Y. Li
+AU  - W. Li
+AU  - Y. Wang
+AU  - S. Tong
+PY  - 2020
+KW  - Neurons
+KW  - Hemodynamics
+KW  - Robot sensing systems
+KW  - Spatiotemporal phenomena
+KW  - Viruses (medical)
+KW  - Rats
+KW  - Hemodynamic response
+KW  - optogenetic inhibition
+KW  - optogenetic excitation
+KW  - sensory stimulation
+KW  - laser speckle contrast imaging (LSCI)
+DO  - 10.1109/EMBC44109.2020.9175284
+JO  - 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+IS  - 
+SN  - 2694-0604
+VO  - 
+VL  - 
+JA  - 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+Y1  - 20-24 July 2020
+AB  - Multisensory stimulation plays an important role in the recovery of ischemic stroke. However, little is known about the interactions between neuronal activities with multi-afferent stimulations and their effects on hemodynamic responses. Optogenetics has been a useful tool in neuroscience research to unravel the mechanisms of neurovascular coupling at cell-specific level. In this study, we applied laser speckle contrast imaging (LSCI) to map the cortical hemodynamic response with high spatiotemporal resolution. The results showed that optogenetic inhibition of pyramidal neurons in sensorimotor cortex induced both local and distant increases of cerebral blood flow (CBF) with dual peaks, and the full width at half maximum (FWHM) was significantly larger than that of the CBF response to optogenetic excitation. Furthermore, optogenetic excitation of pyramidal neurons could significantly increase the local CBF response to sensory stimulation, whereas optogenetic inhibition of pyramidal neurons decreased the local CBF response at the early stage after sensory stimulation and increased the distant CBF response during the recovery period. Our work provided useful insights into the mechanisms of brain stimulation, which might help in clinical neurological applications.
+ER  - 
+
+TY  - CONF
+TI  - Efficiency and fatigue in marksmanship training
+T2  - 2021 5th Scientific School Dynamics of Complex Networks and their Applications (DCNA)
+SP  - 77
+EP  - 80
+AU  - V. Grubov
+AU  - A. Badarin
+AU  - A. Savosenkov
+AU  - N. Grigoriev
+AU  - M. Lukojanov
+AU  - A. Ydoratina
+AU  - V. Maximenko
+AU  - V. B. Kazantsev
+AU  - A. E. Hramov
+PY  - 2021
+KW  - Training
+KW  - Brain
+KW  - Electrooculography
+KW  - Correlation
+KW  - Data analysis
+KW  - Complex networks
+KW  - Fatigue
+KW  - marksmanship training
+KW  - experimental paradigm
+KW  - fatigue
+DO  - 10.1109/DCNA53427.2021.9587150
+JO  - 2021 5th Scientific School Dynamics of Complex Networks and their Applications (DCNA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 5th Scientific School Dynamics of Complex Networks and their Applications (DCNA)
+Y1  - 13-15 Sept. 2021
+AB  - In the present study we developed experimental paradigm and setup for marksmanship training in untrained subjects. We aimed to demonstrate correlation between subject’s fatigue and efficiency during training.
+ER  - 
+
+TY  - CONF
+TI  - Multiscale approach for tFUS neurocomputational modelling
+T2  - 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+SP  - 4712
+EP  - 4715
+AU  - A. Scarpelli
+AU  - M. Stefano
+AU  - F. Cordella
+AU  - L. Zollo
+PY  - 2022
+KW  - Analytical models
+KW  - Transducers
+KW  - Ultrasonic imaging
+KW  - Firing
+KW  - Computational modeling
+KW  - Neurons
+KW  - Voltage
+DO  - 10.1109/EMBC48229.2022.9871341
+JO  - 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+IS  - 
+SN  - 2694-0604
+VO  - 
+VL  - 
+JA  - 2022 44th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+Y1  - 11-15 July 2022
+AB  - Among the non-invasive methods employed for brain stimulation, trans cranial Focused Ultrasound Stimulation (tFUS) is the technique with the best penetration into the tissues and spatial resolution. The development of computational models of US propagation in brain tissue can be useful for estimating the behaviour of neural cells subjected to mechanical stimulus due to US. This paper aims at studying the neural cell response of a cortical Regular Spiking point neuron model, for different values of stimulus Duty Cycle (DC). The main goal is to use a multiscale approach to couple the results obtained from a macroscale simulation on wave propagation in tissue, with neuron model described by Hodgkin-Huxley equations to study latency and firing rate of the RS model. The obtained results showed that latency and firing rate have slight variations along the propagation direction of the US beam, in the focal region under the skull model, for different stimulus DC.
+ER  - 
+
+TY  - CONF
+TI  - Influence of Vibrotactile Feedback on the Motor Evoked Potentials (MEPs) Induced by Motor Imagery
+T2  - 2020 4th Scientific School on Dynamics of Complex Networks and their Application in Intellectual Robotics (DCNAIR)
+SP  - 94
+EP  - 96
+AU  - N. Grigorev
+AU  - A. Savosenkov
+AU  - A. Udoratina
+AU  - V. Kazantsev
+AU  - M. Lukoyanov
+AU  - S. Gordleeva
+PY  - 2020
+KW  - Brain-computer interfaces
+KW  - Training
+KW  - Electroencephalography
+KW  - Neuroscience
+KW  - Neurotechnology
+KW  - Haptic interfaces
+KW  - Electrodes
+KW  - BCI
+KW  - haptic feedback
+KW  - EEG
+KW  - motor cortex excitability
+KW  - event related desynchronization
+KW  - nTMS
+KW  - motor imaging
+DO  - 10.1109/DCNAIR50402.2020.9216847
+JO  - 2020 4th Scientific School on Dynamics of Complex Networks and their Application in Intellectual Robotics (DCNAIR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 4th Scientific School on Dynamics of Complex Networks and their Application in Intellectual Robotics (DCNAIR)
+Y1  - 7-9 Sept. 2020
+AB  - Motor imagery brain-computer interface (MI BCI) is a rapidly developing method of rehabilitation after a stroke. The presence of feedback is an essential point in closing the disturbed sensorimotor loop for the patients. In this work, we investigate motor cortex excitability changes after training with BCI, resulting in motor evoked potentials (MEPs). Seven healthy subjects took part in three experimental conditions: I) direct vibrotactile feedback while training; II) control session with constant vibration; III) BCI training without feedback Special attention was paid to classification accuracy, degree of desynchronization, and MEP measurements. The study has shown that the absence of the feedback does not influence the classification accuracy. The desynchronization degree was significantly higher (p<; 0,05) for all the subjects in the experiments with the feedback, meanwhile, there was no significant difference in MEPs.
+ER  - 
+
+TY  - JOUR
+TI  - Noninvasive Brain Imaging and Stimulation in Post-Stroke Motor Rehabilitation: A Review
+T2  - IEEE Transactions on Cognitive and Developmental Systems
+SP  - 1085
+EP  - 1101
+AU  - H. Chang
+AU  - Y. Sheng
+AU  - J. Liu
+AU  - H. Yang
+AU  - X. Pan
+AU  - H. Liu
+PY  - 2023
+KW  - Electroencephalography
+KW  - Stroke (medical condition)
+KW  - Neuroimaging
+KW  - Brain stimulation
+KW  - Imaging
+KW  - Brain
+KW  - Spatial resolution
+KW  - Brain imaging
+KW  - brain stimulation
+KW  - motor function assessment
+KW  - motor rehabilitation
+KW  - stroke
+DO  - 10.1109/TCDS.2022.3232581
+JO  - IEEE Transactions on Cognitive and Developmental Systems
+IS  - 3
+SN  - 2379-8939
+VO  - 15
+VL  - 15
+JA  - IEEE Transactions on Cognitive and Developmental Systems
+Y1  - Sept. 2023
+AB  - This article provides a comprehensive review of the current state of noninvasive brain imaging and brain stimulation in motor rehabilitation after stroke. The functional organization of the brain is determined by brain network connections. Brain imaging enables us to map the network organization of the brain, so as to assess the motor function in a stroke state. The noninvasive functional imaging techniques include electroencephalography (EEG) and magnetoencephalography (MEG) with the better temporal resolution, and functional magnetic resonance imaging (fMRI) and functional near-infrared spectroscopy (fNIRS) with better spatial resolution. Based on single-mode or multimode imaging methods, the changes of brain networks caused by stroke and during motor recovery progress can be observed. Brain stimulation is an effective way to reorganize brain networks. Transcranial magnetic stimulation (TMS) and transcranial direct current stimulation (tDCS) are the most widely studied noninvasive neuromodulation techniques. Combined with imaging, brain stimulation can alter brain networks in controlled ways and making neuromodulation a closed loop. This review also outlines the methods of facilitate motor rehabilitation: 1) multimode imaging for motor assessment; 2) brain stimulation combined with rehabilitation training; 3) close-loop motor rehabilitation; and 4) influencing factors motor rehabilitation.
+ER  - 
+
+TY  - CONF
+TI  - Emerging Applications of Brain Computer Interfaces: A Comprehensive Review and Future Perspectives
+T2  - 2023 IEEE 11th Region 10 Humanitarian Technology Conference (R10-HTC)
+SP  - 312
+EP  - 317
+AU  - N. Patel
+AU  - J. Verma
+AU  - S. Jain
+PY  - 2023
+KW  - Reviews
+KW  - Magnetic resonance imaging
+KW  - Focusing
+KW  - Robot sensing systems
+KW  - Motors
+KW  - Brain-computer interfaces
+KW  - Trajectory
+KW  - Brain Computer Interface
+KW  - BCI
+KW  - Emotion Detection
+KW  - Sentiment Analysis
+KW  - Robotics
+KW  - Drug Addiction
+KW  - Security
+KW  - Authentication
+KW  - Review
+DO  - 10.1109/R10-HTC57504.2023.10461739
+JO  - 2023 IEEE 11th Region 10 Humanitarian Technology Conference (R10-HTC)
+IS  - 
+SN  - 2572-7621
+VO  - 
+VL  - 
+JA  - 2023 IEEE 11th Region 10 Humanitarian Technology Conference (R10-HTC)
+Y1  - 16-18 Oct. 2023
+AB  - This review article examines brain-computer interfaces (BCls) in depth, focusing on various paradigms, approaches, applications, and future research opportunities. Three primary paradigms have been thoroughly investigated: motor imagery, event-related potentials, and visually evoked state potentials. EEG, ECoG and MRI signal collection techniques are described, emphasizing their importance in BCI research. The integration of deep learning and machine learning approaches in the interpretation of brain signals is a critical challenge. This research focuses on the BCI performance development trajectory and its important implications for practical application. Some real-world applications are described, spanning from medical domains such as Parkinson's, ALS, and addiction treatment to emotional sensing, robotics, education, security, and other fields. area. The study reviews the approaches used in each application and discusses future research.
+ER  - 
+
+TY  - CONF
+TI  - Development of a magnetoelectric neural stimulator for in vitro experiments
+T2  - 2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)
+SP  - 1
+EP  - 5
+AU  - S. Matsoukis
+AU  - J. Covelo
+AU  - M. V. Sanchez-Vives
+AU  - A. Veciana
+AU  - D. Kim
+AU  - X. -Z. Chen
+AU  - S. Pané
+AU  - H. Macedo-Zamudio
+AU  - U. Wallrabe
+AU  - R. Xu
+AU  - G. Edlinger
+AU  - J. Scharinger
+PY  - 2023
+KW  - Neurological diseases
+KW  - Wireless communication
+KW  - Technological innovation
+KW  - Magnetoelectric effects
+KW  - Magnetic devices
+KW  - Prototypes
+KW  - Brain modeling
+KW  - magnetoelectric materials
+KW  - nanoparticles
+KW  - in vitro
+KW  - stimulator
+KW  - brain stimulation
+KW  - medical device
+KW  - modelling
+KW  - hardware development
+KW  - software
+KW  - BFO-CFO
+KW  - electrophysiology
+DO  - 10.1109/BioCAS58349.2023.10389168
+JO  - 2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)
+IS  - 
+SN  - 2766-4465
+VO  - 
+VL  - 
+JA  - 2023 IEEE Biomedical Circuits and Systems Conference (BioCAS)
+Y1  - 19-21 Oct. 2023
+AB  - Magnetoelectric (ME) materials hold the potential for wireless and minimally invasive brain stimulation with high spatial precision. However, comprehensive integration of ME materials in neurophysiology experiments remains an open challenge. In this study, we present the development of a ME stimulator prototype for in vitro brain stimulation, specifically tested with BiFeO3-CoFe2O4 (BFO-CFO) nanoparticles. Our approach entails the design and implementation of a ME stimulator, which seamlessly integrates with existing electrophysiology setups while supporting a wide range of frequencies. To optimize the stimulator's design and evaluate its performance, we conducted modeling and simulations, bench tests, and in vitro experiments using cortical slices. The proposed ME stimulator offers neuroscientists a reliable and versatile tool to advance their understanding of brain function and potentially enhance the treatment of neurological disorders.
+ER  - 
+
+TY  - CONF
+TI  - Neurovascular Coupling Impairment in Acute Ischemic Stroke by Optogenetics and Optical Brain Imaging
+T2  - 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+SP  - 3727
+EP  - 3730
+AU  - B. Bo
+AU  - Y. Li
+AU  - W. Li
+AU  - Y. Wang
+AU  - S. Tong
+PY  - 2020
+KW  - Neurons
+KW  - Couplings
+KW  - Viruses (medical)
+KW  - Imaging
+KW  - Hemodynamics
+KW  - Rats
+KW  - optogenetics
+KW  - acute ischemic stroke
+KW  - hemodynamic response
+KW  - neuronal modulation
+KW  - laser speckle contrast imaging
+DO  - 10.1109/EMBC44109.2020.9176641
+JO  - 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+IS  - 
+SN  - 2694-0604
+VO  - 
+VL  - 
+JA  - 2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)
+Y1  - 20-24 July 2020
+AB  - The coupling between neuronal activity and cerebral blood flow (CBF), known as neurovascular coupling, has been reported to be impaired after stroke. This study aims to investigate the neurovascular coupling impairment at the acute stage after ischemic stroke. Laser speckle contrast imaging (LSCI) was applied to measure the hemodynamic response to optogenetic excitation of sensorimotor neurons in healthy and ischemic brain. The results showed that the hemodynamic response to optogenetic stimulation decreased and the regional CBF response was correlated with the distance from the ischemic core at the acute stage, regardless of the change in resting CBF. Our results also demonstrated that excitatory neuronal stimulation of intact area could promote the recovery of neurovascular coupling, whereas peri-infarct neuronal excitation failed to restore neurovascular function 24 hrs after ischemia. These results suggested the intact periphery of penumbra as the target for excitatory stimulation in aspect of restoring the perfusion after ischemic stroke.
+ER  - 
+
+TY  - CONF
+TI  - Analysis and Design of User Experience (UX) for Human Resource Information System (HRIS) Time Management System (TMS) Module at PT Astra Daihatsu Motor
+T2  - 2023 IEEE 9th International Conference on Computing, Engineering and Design (ICCED)
+SP  - 1
+EP  - 6
+AU  - N. J. S. Rini
+AU  - P. D. Syahputra
+AU  - Umairoh
+AU  - M. A. Dewi
+AU  - V. E. Ticoalu
+PY  - 2023
+KW  - Human-robot interaction
+KW  - Prototypes
+KW  - Information filters
+KW  - User experience
+KW  - Usability
+KW  - Statistics
+KW  - Information systems
+KW  - HRIS
+KW  - user experience
+KW  - design thinking
+KW  - system usability scale
+KW  - questionnaire
+KW  - TMS
+DO  - 10.1109/ICCED60214.2023.10425109
+JO  - 2023 IEEE 9th International Conference on Computing, Engineering and Design (ICCED)
+IS  - 
+SN  - 2767-7826
+VO  - 
+VL  - 
+JA  - 2023 IEEE 9th International Conference on Computing, Engineering and Design (ICCED)
+Y1  - 7-8 Nov. 2023
+AB  - In large companies, management of human resources using a Human Resource Information System (HRIS) is of utmost importance. The HRIS serves as a system for collecting, storing, managing, analyzing, and presenting data to provide HRD needs. At PT ADM, the HRIS currently consists of various modules, such as employee data, performance management, people development, and time management systems (TMS). Among these modules, TMS stands out with its high transaction volume. However, HRD PT ADM frequently receives complaints about the confusing process associated with the TMS module. To address this issue, an analysis was conducted to evaluate the user experience within the TMS module of the HRIS. The objective was to identify usability issues and propose a prototype for website improvement, using the Design Thinking approach. To measure usability, the System Usability Scale was employed, and questionnaires were distributed to gather feedback. Out of the total population, 49 respondents participated (>10% response rate). The questionnaire’s results yielded an overall rating of 66.7, indicating poor usability. The identified issues on the HRIS website mainly revolved around inconsistent language terms, excessive sidebar menus, unnecessary menu items, filter problems, and SAP integration challenges. Based on these findings, a prototype for the HRIS was developed, and user feedback was collected. The feedback received an average rating of 4.5 out of 5, signifying a significant improvement in the system usability. The new prototype has greatly facilitated the HRIS process, solving the previous difficulties faced by users.
+ER  - 
+
+TY  - CONF
+TI  - Comparison on brain activity for mechanical imagery and execution: a brief review
+T2  - 2021 5th Scientific School Dynamics of Complex Networks and their Applications (DCNA)
+SP  - 56
+EP  - 60
+AU  - A. Chepurova
+AU  - S. Kurkin
+PY  - 2021
+KW  - Brain
+KW  - Systematics
+KW  - Magnetic resonance imaging
+KW  - Complex networks
+KW  - Brain activity
+KW  - Motor imagery
+KW  - Motor execution
+KW  - EEG
+KW  - MEG
+KW  - fMRI
+KW  - Transcranial magnetic stimulation
+KW  - Neurorehabilitation
+KW  - Brain-computer interface
+DO  - 10.1109/DCNA53427.2021.9587202
+JO  - 2021 5th Scientific School Dynamics of Complex Networks and their Applications (DCNA)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 5th Scientific School Dynamics of Complex Networks and their Applications (DCNA)
+Y1  - 13-15 Sept. 2021
+AB  - With this review we summarize the current state of scientific studies in the field of MI (motor imagery) and ME (motor execution). We composed brain map and description which correlate different brain areas with type of movements it is responsible for. That gives a more complete and systematic picture of human brain functionality in a case of ME and MI. Also we found the research gap and possible improvements for the further researches in this field.
+ER  - 
+
+TY  - CONF
+TI  - Jean Joseph v2.0 (REmotion): Make Remote Emotion Touchable, Seeable and Thinkable by Direct Brain-to-Brain Telepathy Neurohaptic Interface Empowered by Generative Adversarial Network
+T2  - 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+SP  - 3488
+EP  - 3493
+AU  - K. -J. Wang
+AU  - C. Y. Zheng
+AU  - M. Shidujaman
+AU  - M. Wairagkar
+AU  - M. von Mohr
+PY  - 2020
+KW  - Pandemics
+KW  - Generative adversarial networks
+KW  - Robot sensing systems
+KW  - Brain-computer interfaces
+KW  - Haptic interfaces
+KW  - History
+KW  - Gallium nitride
+KW  - Brain-Computer Interface
+KW  - Affective Computing
+KW  - Deep Learning
+KW  - GAN
+KW  - Wearable Computing
+KW  - Human-Centered UI/UX Design
+KW  - Remote Communication
+KW  - Haptic Interface
+KW  - Emotion
+DO  - 10.1109/SMC42975.2020.9283049
+JO  - 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+IS  - 
+SN  - 2577-1655
+VO  - 
+VL  - 
+JA  - 2020 IEEE International Conference on Systems, Man, and Cybernetics (SMC)
+Y1  - 11-14 Oct. 2020
+AB  - For thousands of years in the history of our human society, people are inevitably segregated by long-distances. No matter whatever the reasons are, due to working, studying, visiting, traveling, or even the self-isolations as a result enforced by pandemic diseases, we are always separated with our closest friends, families and/or loved ones all the times in our life. There are no effective ways to bond us all together while we are away from each other. REmotion is an ergonomic, sleek, and human-centered non-invasive neurohaptic interface that turns human emotion brain signals into physical touch stimulations and synthetic images. It allows "speech-free", "typing-free" remote communications with your friends by direct brain-to-brain telepathy. While wearing our earbud-like simple brain-computer interface and the robotic haptic suit/armband, the developed BCI biosensing algorithms can interpret EEG signals, and the deep Generative Adversarial Network (GAN) will translate the "feelings of missing someone" into perceivable images and haptic sensations conveyed remotely to your friends. This method provides on-the-fly telepathy and peaceful feelings when people are segregated from their families, close friends, or loved ones. The only thing they have to do is by just thinking "I miss you", without additional fumbling of speaking on the cellphones, using hands to open the Apps or typing text messages in order to communicate with each other.
+ER  - 
+
+TY  - CONF
+TI  - Development and Experiments of a Novel Deep-sea Resident ROV
+T2  - 2021 6th International Conference on Control and Robotics Engineering (ICCRE)
+SP  - 129
+EP  - 134
+AU  - Y. Zhang
+AU  - Q. Zhang
+AU  - A. Zhang
+AU  - Y. Sun
+AU  - Z. He
+PY  - 2021
+KW  - Sea surface
+KW  - Power supplies
+KW  - Sea floor
+KW  - Surface charging
+KW  - Unmanned vehicles
+KW  - Control systems
+KW  - Complexity theory
+KW  - ROV
+KW  - resident ROV
+KW  - deep-sea
+KW  - combined energy supply
+DO  - 10.1109/ICCRE51898.2021.9435653
+JO  - 2021 6th International Conference on Control and Robotics Engineering (ICCRE)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 6th International Conference on Control and Robotics Engineering (ICCRE)
+Y1  - 16-18 April 2021
+AB  - It is extremely difficult and expensive to operate a traditional remotely operated vehicle (ROV) in the deep-sea. In this paper, a novel small-scale deep-sea resident ROV, called Rover ROV, is designed to conduct regional fine-sounding operations. The Rover ROV does not require a complicated Launch and Recovery System (LARS) equipped on a surface vessel, instead, the Rover ROV can be placed on a deep-sea lander and diving to the seafloor together. To ensure sufficient energy for the Rover ROV and meanwhile reduce the complexity of the conventional Tether Management System (TMS), a combined energy supply scheme based on floating charging technology is proposed. This power supply solution avoids relying solely on strong cables to provide power. To validating the maneuverability of the self-developed resident ROV and the effectiveness of the combined energy supply solution, Field experiments have been conducted in the South China Sea area with a depth of 3000 m. The results show that the developed small-scale resident ROV system can be operated in deep-sea high-power scenario, which verifies the higher reliability and longtime working capability of the proposed system.
+ER  - 
+
+TY  - CONF
+TI  - CART-I: Design and Development of Collision Avoidance Robotic Tether for Underwater Nuclear Inspection Vehicles
+T2  - OCEANS 2021: San Diego – Porto
+SP  - 1
+EP  - 7
+AU  - A. K. Al Mhdawi
+AU  - N. Wright
+AU  - S. Benson
+AU  - M. Haroutunian
+PY  - 2021
+KW  - Underwater cables
+KW  - Sea surface
+KW  - Navigation
+KW  - MIMICs
+KW  - Inspection
+KW  - Manipulators
+KW  - Surface roughness
+KW  - Tether
+KW  - Umbilical Cables
+KW  - Remotely Operated Vehicles (ROV)
+KW  - Underwater
+KW  - Thrust
+KW  - Locomotion
+KW  - Inspection
+DO  - 10.23919/OCEANS44145.2021.9705689
+JO  - OCEANS 2021: San Diego – Porto
+IS  - 
+SN  - 0197-7385
+VO  - 
+VL  - 
+JA  - OCEANS 2021: San Diego – Porto
+Y1  - 20-23 Sept. 2021
+AB  - In Underwater exploration, umbilical cord or tether cables are used to provide data transfer, electrical power and control commands to underwater robots and surface vessels. Umbilicals are also useful for anchoring, mooring, and for the deployment of underwater sensors. In general, tethers are naturally buoyant and are designed to work under rough sea conditions and is managed via the Tether Management Systems(TMS). In a limited-size environment such as nuclear environment inspection, multiple ROVs may be deployed and due to the density of various objects underwater, tangles and loops tend to form in low-tension zones due to residual torsion and flexure. The formation of tangles could hinder the operation of the ROV, and attenuate signal transmission in fibre-optic cables due to formed knots and kinks on the cables. Moreover, the risk of collection and entanglements is even increased if the ROV is equipped with manipulators that may tangle with the tether. In this paper, a novel robotics tether system is developed that is capable of navigating in the water to prevent loops and tangles and avoid obstacles. The developments of the system is a bio-inspired design that mimics the motion of a snake in the water. The design of the system single unit consists of a double $\mu$thrust system that is designed to be fitted on the tether. The developed system is distributed in the form of sections on the tether cable. The $\mu$thruster implement a specific pulse thrust according to the distance from an object to prevent collection and entanglement. To effectively simulate the proposed system, a tether cable is simulated for three types of cases, traditional tether, constant thrust tether and constant thrust with wave pattern. Moreover, the initial experiments in the hydrodynamics lab tank showed efficient locomotion of the tether cable away from obstacles.
+ER  - 
+
+TY  - JOUR
+TI  - Proximal Policy Optimization With Time-Varying Muscle Synergy for the Control of an Upper Limb Musculoskeletal System
+T2  - IEEE Transactions on Automation Science and Engineering
+SP  - 1929
+EP  - 1940
+AU  - R. Liu
+AU  - J. Wang
+AU  - Y. Chen
+AU  - Y. Liu
+AU  - Y. Wang
+AU  - J. Gu
+PY  - 2024
+KW  - Muscles
+KW  - Musculoskeletal system
+KW  - Robots
+KW  - Optical fiber theory
+KW  - Optical fiber networks
+KW  - Force
+KW  - Tendons
+KW  - Musculoskeletal system
+KW  - muscle synergy
+KW  - proximal policy optimization
+KW  - electromyography
+DO  - 10.1109/TASE.2023.3254583
+JO  - IEEE Transactions on Automation Science and Engineering
+IS  - 2
+SN  - 1558-3783
+VO  - 21
+VL  - 21
+JA  - IEEE Transactions on Automation Science and Engineering
+Y1  - April 2024
+AB  - Because of their unique adaptability, flexibility, and robustness, musculoskeletal robotic systems are regarded potentially as next-generation robots. However, motion learning and generation of such a robotic system are still challenging. This paper presents a neuromuscular control method, namely, TMS-PPO, based on time-varying muscle synergy (TMS) and proximal policy optimization (PPO). The electromyogram (EMG) activation signals of actual human motions are decomposed to obtain TMSs based on the temporal properties of the TMS. The weights of networks are trained to generate the scale and phase coefficients through the PPO. The coefficients modulate the TMSs to generate appropriate activation patterns to optimize motion learning of the musculoskeletal system. To verify the effectiveness of the proposed method, the TMSs are extracted from human upper limb muscle activation signals, and we compare TMS-PPO with PPO in the motion learning and generation process of an upper limb musculoskeletal system. The results show that TMS-PPO can complete the control tasks because the average errors of the joints are less than 0.05 rad. In the meantime, TMSs are used as motion primitives of the musculoskeletal system to simulate the process of the human CNS controlling muscles. It shows that TMS-PPO reduces the energy consumption and improves the learning rate significantly compared with the PPO. The learning episodes reduce from  $10^{4}$  to  $10^{3}$ , which indicates that TMS-PPO has a stronger learning ability and better physiological explanation.Note to Practitioners—Due to the superiorities of the musculoskeletal system, humanoid robots that imitate human driven mechanisms are vigorously carried out worldwide. Taking advantages of human-like characteristics, the musculoskeletal robot provides new opportunities to understand and validate the human mechanisms of muscle control and motion learning, to compare the performance of the robot to that of humans as well as work in real world, e.g., human interactive robots, amusement robots and medical training robots in the future. However, strong redundancy, coupling, and nonlinearity of the system also raises many challenges for the investigation of the control problem. Inspired by how the human CNS controls a musculoskeletal system and realize motion generalization, a novel muscle-synergies-based neuromuscular control that combines time-varying muscle synergy (TMS) and Proximal Policy Optimization (PPO), namely, TMS-PPO is proposed in this paper. The learning efficiency of PPO and the physiological interpretation of the control process are improved during the motion learning and generation processes of the musculoskeletal system. Preliminary simulation experiments suggest that this method is feasible in terms of control accuracy and efficiency. Moreover, the performance of the TMS-PPO is comparable to the PPO without significant improvement. To solve this problem, in future work, we will introduce the cerebellar model into the control method which plays the role of adjusting and correcting the motions of the limbs to achieve accurate and stable control in the actions process of humans.
+ER  - 
+
+TY  - JOUR
+TI  - Modulation of Bodily Self-Consciousness by Self and External Touch
+T2  - IEEE Transactions on Haptics
+SP  - 615
+EP  - 625
+AU  - M. Hara
+AU  - N. Kanayama
+AU  - O. Blanke
+AU  - R. Salomon
+PY  - 2021
+KW  - Robot sensing systems
+KW  - Optical variables measurement
+KW  - Particle measurements
+KW  - Optical sensors
+KW  - Optical pulses
+KW  - Atmospheric measurements
+KW  - Visualization
+KW  - Active self-touch
+KW  - cognetics
+KW  - full body illusion
+KW  - sense of agency
+KW  - sense of body ownership
+DO  - 10.1109/TOH.2021.3067651
+JO  - IEEE Transactions on Haptics
+IS  - 3
+SN  - 2329-4051
+VO  - 14
+VL  - 14
+JA  - IEEE Transactions on Haptics
+Y1  - 1 July-Sept. 2021
+AB  - The full body illusion (FBI) is a bodily illusion based on the application of multisensory conflicts that induce changes in bodily self-consciousness (BSC). This has been used to study cognitive brain mechanisms underlying body ownership and related aspects of self-consciousness. Typically, such paradigms employ external passive multisensory stimulation, thus neglecting the possible contributions of self-generated action and haptic cues to body ownership. In this article, the effects of both external and voluntary self-touch on BSC were examined with a robotics-based FBI paradigm. We compared the effects of classical passive visuotactile stimulation and active self-touch (in which experimental participants had a sense of agency over the tactile stimulation) on the FBI. We evaluated these effects using a questionnaire, crossmodal congruency task, and measurements of changes in self-location. The results indicated that both synchronous passive visuotactile stimulation and synchronous active self-touch induced illusory ownership over a virtual body, without significant differences in their magnitudes. However, the FBI induced by active self-touch was associated with a larger drift in self-location towards the virtual body. These results show that movement-related signals arising from self-touch impact the BSC not only for hand ownership but also for torso-centered body ownership and related aspects of BSC.
+ER  - 
+
+TY  - CONF
+TI  - Wrist Exoskeleton Design for Pronation and Supination using Mirrored Movement Control
+T2  - 2021 20th International Conference on Advanced Robotics (ICAR)
+SP  - 575
+EP  - 580
+AU  - P. V. Fulton
+AU  - S. Löhlein
+AU  - N. Paredes-Acuña
+AU  - N. Berberich
+AU  - G. Cheng
+PY  - 2021
+KW  - Wrist
+KW  - Torque
+KW  - Gears
+KW  - Tracking
+KW  - Exoskeletons
+KW  - Muscles
+KW  - Stroke (medical condition)
+DO  - 10.1109/ICAR53236.2021.9659397
+JO  - 2021 20th International Conference on Advanced Robotics (ICAR)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 20th International Conference on Advanced Robotics (ICAR)
+Y1  - 6-10 Dec. 2021
+AB  - Wrist exoskeleton designs are being developed and tailored to support at-home rehabilitation for patients suffering upper extremity impairments. However, wrist exoskeleton design is challenged by the inherent complexity of the human wrist movement. In this work we propose a new portable exoskeleton mechanism for supporting pronation and supination, which is controlled by the opposing arm in a mirrored fashion. We make use of a gear-based mechanism and soft wearable to translate the motor's torque onto the subject's forearm to provide wrist rotation. In this paper, we analyze the exoskeleton's range of motion and accuracy of mechanical movement through posture detection and tracking. Our results show a consistent range of motion from 0° to 171.16°, surpassing the minimum required range of motion for activities of daily living (between 40° and 140°). Finally, we measure muscle activity through sEMG as an indication of assistance to the wearer. The sEMG activity recorded under different conditions shows the assistive property of the device with an average reduction in muscular activity of 20.8% for the Pronator Teres muscle and of 51.7% for the Supinator muscle.
+ER  - 
+
+TY  - CONF
+TI  - Order Diminution of Bicycle-Robot Controller by Exploiting Markov-Parameters based Error-Minimization Using Jaya Algorithm
+T2  - 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)
+SP  - 1
+EP  - 5
+AU  - U. K. Yadav
+AU  - V. P. Meena
+AU  - H. Monga
+AU  - N. Patnana
+AU  - V. P. Singh
+PY  - 2022
+KW  - Control systems
+KW  - Linear programming
+KW  - Minimization
+KW  - Power electronics
+KW  - Steady-state
+KW  - Proposals
+KW  - Controller
+KW  - Jaya algorithm
+KW  - Markov-parameters
+KW  - Linear-momentum based bicycle-robot
+KW  - Time-moments
+DO  - 10.1109/PEDES56012.2022.10080767
+JO  - 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 IEEE International Conference on Power Electronics, Drives and Energy Systems (PEDES)
+Y1  - 14-17 Dec. 2022
+AB  - In this proposal, order diminution of self-balanced linear-momentum based bicycle-robot (LMBR) controller is proposed with the help of time-moments (TMs) and Markov-parameters (MPs) of higher-order (HO) LMBR controller and its desired reduced-order (RO) model by utilizing jaya algorithm. Firstly, the TMs and MPs of HO LMBR controller and its RO model are obtained. The TMs of HO LMBR controller and RO model are exploited for steady state matching. The MPs are utilized to construct the objective function which is weighted summation of errors in between MPs of HO LMBR controller and RO model. The framed objective function is minimized with the help of jaya algorithm. The minimization of errors between MPs of HO LMBR controller and RO model are done for ascertainment of unknown coefficients of desired RO model. The proposed RO model for HO LMBR controller is compared with the model obtained by exploiting other order reduction methods available in the literature.
+ER  - 
+
+TY  - JOUR
+TI  - Secure Brain-to-Brain Communication With Edge Computing for Assisting Post-Stroke Paralyzed Patients
+T2  - IEEE Internet of Things Journal
+SP  - 2531
+EP  - 2538
+AU  - S. Rajesh
+AU  - V. Paul
+AU  - V. G. Menon
+AU  - S. Jacob
+AU  - P. Vinod
+PY  - 2020
+KW  - Electroencephalography
+KW  - Headphones
+KW  - Electrodes
+KW  - Internet of Things
+KW  - Security
+KW  - Edge computing
+KW  - Exoskeletons
+KW  - Brain-to-brain interface
+KW  - edge computing
+KW  - electroencephalogram (EEG)
+KW  - Internet of Things
+KW  - post-stroke paralysis
+KW  - secure communication
+KW  - security and privacy
+KW  - TMS
+DO  - 10.1109/JIOT.2019.2951405
+JO  - IEEE Internet of Things Journal
+IS  - 4
+SN  - 2327-4662
+VO  - 7
+VL  - 7
+JA  - IEEE Internet of Things Journal
+Y1  - April 2020
+AB  - Stroke affects 33 million individuals worldwide every year and is one of the prime causes of paralysis. Due to partial or full paralysis, most of the patients affected by stroke depend on caregivers for the rest of their lives. Easy and efficient communication from the patient to the caregiver is a vital parameter determining the quality of life during rehabilitation. Several solutions, such as brain-computer interface (BCI) systems and exoskeletons, are proposed for post-stroke rehabilitation. But, most of these devices are expensive, sophisticated, and put an additional burden on the patient. Also, the communication between the patient and the caregiver is insecure. In this article, the brain-to-brain interface technique is integrated with an efficient encryption algorithm to enable secure transmission of information from the patient's brain to the caregiver. When a patient thinks of a word or a number, the thought is transmitted with the help of an electroencephalogram (EEG) headset through a wireless medium to the recipient, who correctly interprets the thoughts conveyed by the sender and types the same alphabet on the keyboard at his/her end. The transmitted message at the edge is encrypted with a lightweight novel tiny symmetric algorithm (NTSA), which can only be decrypted at the edge receiver. The Internet of Things integrated system is also flexible to send signals to multiple caregivers at the same time. The proposed method tested on ten users gave an average effective concentration percentage of 78.9% along with the secure transmission, which is a significant result compared with existing solutions.
+ER  - 
+
+TY  - CONF
+TI  - Quant-Meta: Quantum Key Distribution Framework for Telesurgery in Metaverse Environment
+T2  - 2023 IEEE Globecom Workshops (GC Wkshps)
+SP  - 1868
+EP  - 1873
+AU  - P. Bhattacharya
+AU  - V. K. Ralegankar
+AU  - R. Gupta
+AU  - S. Tanwar
+AU  - J. J. P. C. Rodrigues
+PY  - 2023
+KW  - Tactile Internet
+KW  - Protocols
+KW  - Metaverse
+KW  - Quantum channels
+KW  - Surgery
+KW  - Medical services
+KW  - Receivers
+KW  - Healthcare 5.0
+KW  - Quantum Key Distribution
+KW  - BB84 protocol
+KW  - Telesurgery
+KW  - 6G
+KW  - Metaverse
+DO  - 10.1109/GCWkshps58843.2023.10464607
+JO  - 2023 IEEE Globecom Workshops (GC Wkshps)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE Globecom Workshops (GC Wkshps)
+Y1  - 4-8 Dec. 2023
+AB  - Advanced robotics, high-speed networking, and real-time haptics have opened a myriad of opportunities to extend telesurgery in Metaverse environments. The telesurgery metaverse (TMs) offers high-quality, immersive, and interactive surgical scenarios. Despite the remarkable progress, TMs suffer from operational threats against quantum-adversarial attacks, which can jeopardize the integrity, reliability, and safety of operated patients. The paper presents a novel framework Quant-Meta, that integrates quantum key distribution (QKD) in TM through the BB84 protocol. A framework is presented for TM, where the surgeon communicates via gestures that are communicated securely to the robotic arm present in a metaverse environment. A quantum channel sets up the BB84 key distribution, and the sender and receiver agree to the shared key. Once it is set up, the communication is supported by a 6G-envisioned tactile internet (TI) channel. which assures high reliability. To ensure high precision, explainable artificial intelligence (XAI) is integrated with the trained model to predict doctor gestures. The framework is analyzed in terms of BB84 protocol design, and quantum channel parameters. The result signifies a high probability of intruder detection and a 19.87 % improvement in channel transmission rate. The quantum bit error rate also likes below 4 %, with a high sifted key rate. The results indicate the potential viability of the framework in practical telesurgical deployments.
+ER  - 
+
+TY  - CONF
+TI  - Convergent wireless real-time communicaiton using EtherCAT and OPC UA for AGV application with big data sets acquisition
+T2  - 2023 IEEE International Conference on Big Data (BigData)
+SP  - 5127
+EP  - 5133
+AU  - J. Stój
+AU  - P. Gaj
+PY  - 2023
+KW  - Wireless communication
+KW  - Remotely guided vehicles
+KW  - Protocols
+KW  - Collaboration
+KW  - Big Data
+KW  - Tunneling
+KW  - Real-time systems
+KW  - Industrial Control Systems
+KW  - AGV
+KW  - Real-time Ethernet
+KW  - RTE
+KW  - EtherCAT
+KW  - Big Data
+KW  - convergent networks
+KW  - OPC UA
+KW  - wireless
+KW  - Wi-Fi
+DO  - 10.1109/BigData59044.2023.10386272
+JO  - 2023 IEEE International Conference on Big Data (BigData)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2023 IEEE International Conference on Big Data (BigData)
+Y1  - 15-18 Dec. 2023
+AB  - ptimization of delivery of goods to production stations spread on factory floors has led to creation of Automated Guided Vehicles AGV. Latter it evolved to AGVs equipped with collaborative robots implemented to automate the process of loading and unloading of the transported goods. To make the operation of AGVs efficient it is needed to exchange data with higher level system like Manufacturing Execution Systems MES and Transport Management Systems TMS. The data is needed also to increase the energy efficiency of AGVs and their availability by implementation of predictive maintenance procedures. To make it possible processing of big data sets describing the change of the state of AGV’s in time is necessary. But first, the data has to be gathered using reliable wireless communication link that are shared with real-time protocols used for integration with production stations and collaboration with them. The paper considers a solution based on EtherCAT network with application of Ethernet over EtherCAT EoE communication profile for tunneling of OPC UA traffic.
+ER  - 
+
+TY  - JOUR
+TI  - Goal-Oriented Data-Driven Control for a Holistic Thermal Management System of an Electric Vehicle
+T2  - IEEE Transactions on Automation Science and Engineering
+SP  - 1
+EP  - 12
+AU  - Y. Tao
+AU  - J. Li
+AU  - G. Gao
+AU  - Z. Liu
+AU  - S. Rinderknecht
+PY  - 2023
+KW  - Thermal management
+KW  - Fluids
+KW  - Mechanical power transmission
+KW  - Lubrication
+KW  - Costs
+KW  - Cooling
+KW  - Aerospace electronics
+KW  - Bayesian optimization
+KW  - electric vehicle
+KW  - goal-oriented control
+KW  - holistic cooling system
+KW  - model predictive control
+KW  - thermal lifetime
+KW  - thermal management
+DO  - 10.1109/TASE.2023.3304521
+JO  - IEEE Transactions on Automation Science and Engineering
+IS  - 
+SN  - 1558-3783
+VO  - 
+VL  - 
+JA  - IEEE Transactions on Automation Science and Engineering
+Y1  - 
+AB  - This work presents a goal-oriented data-driven control using Bayesian Optimization (BO) to train an MPC in a cascade control scheme. Unlike most works focusing on control parameters, this work focuses on system matrices. The control training scheme is used to develop a controller for a complicated holistic thermal management system (TMS) that provides cooling and lubrication for the electric and mechanical components in one circuit. The control goal is to reduce the total energy consumption instead of reference tracking. Compared to a basic controller, the goal-oriented trained controller reduces the energy cost by up to 1.8% in simulation studies. Thanks to the reduction of the operating temperature, the thermal lifetime of one EM is extended by 5.31 times and that of the other EM by 5.38 times. The TMS can be theoretically analysed so that the systems matrices can be restricted in certain search spaces during BO to avoid contradiction to the physics of the real system. In contrary to the literature, the restriction neither speeds up BO nor achieves a better control goal. Therefore, goal-oriented control with restrictions based on prior knowledge does not guarantee better control for similar systems. Note to Practitioners—A holistic TMS is a complex system to be identified or controlled. Goal-oriented data-driven control makes it possible to design a high-performance controller for it and complex systems alike with less complication. Important to practitioners, the resulting controller reduces energy consumption and extend thermal lifetime of the EM at the same time. Simulation results also show that restricting the search space of BO based on theoretical analysis does not guarantee a controller with better control. It’s, therefore, unnecessary for practitioners to spend extensive effort to analyse the system and provide such restrictions.
+ER  - 
+
+TY  - JOUR
+TI  - An Adjustable Wide-Range Speed-Control Method for Sensorless IPMSM Drive Systems
+T2  - IEEE Access
+SP  - 42727
+EP  - 42738
+AU  - M. S. Mubarok
+AU  - T. -H. Liu
+PY  - 2022
+KW  - Robot sensing systems
+KW  - Rotors
+KW  - Parameter estimation
+KW  - Inductance
+KW  - Switches
+KW  - Torque
+KW  - Stators
+KW  - Current-slope measurement
+KW  - sensorless drive
+KW  - online parameter estimation
+KW  - maximum torque per ampere control
+KW  - flux-weakening control
+KW  - IPMSM
+DO  - 10.1109/ACCESS.2022.3168390
+JO  - IEEE Access
+IS  - 
+SN  - 2169-3536
+VO  - 10
+VL  - 10
+JA  - IEEE Access
+Y1  - 2022
+AB  - This paper proposes an adjustable wide-range speed-control method for sensorless IPMSM drive systems from standstill, low-speeds, middle-speeds, and high-speeds in the flux-weakening region. A sensorless method and an online parameter estimation method based on the measurement of current-slope under SVPWM with an extension compensation are proposed. The estimated rotor position, rotor speed, d-q axis inductances, magnetic flux, and torque of the IPMSM are precisely computed by using a current-slope measurement, and then a closed-loop speed control sensorless IPMSM drive system is implemented without requiring any external high-frequency signal injection or a complicated observer. In addition, to achieve a high-performance sensorless IPMSM drive system, the estimated parameters are used for real-time maximum torque per ampere control and flux-weakening control. Finally, the proposed sensorless IPMSM drive system provides a wide operation range from 1 r/min to 3000 r/min with excellent performance in constant-torque regions and flux-weakening regions. A digital signal processor, made by Texas Instrument, type TMS 320F2802, is employed to realize the control algorithm and estimation algorithm. Experimental results show the proposed sensorless IPMSM drive system achieves satisfactory responses, including  $\pm \,{\mathrm {2.5}}^{\circ }$  of electrical position estimation errors, good dynamic responses, and good tracking responses.
+ER  - 
+
+TY  - JOUR
+TI  - Modulatory Effects of Communicative Gaze on Attentional Orienting Are Driven by Dorsomedial Prefrontal Cortex but Not Right Temporoparietal Junction
+T2  - Journal of Cognitive Neuroscience
+SP  - 1670
+EP  - 1680
+AU  - A. Abubshait
+AU  - K. Kompatsiari
+AU  - P. Cardellicchio
+AU  - E. Vescovo
+AU  - D. De Tommaso
+AU  - L. Fadiga
+AU  - A. D'Ausilio
+AU  - A. Wykowska
+PY  - 2023
+DO  - 10.1162/jocn_a_02032
+JO  - Journal of Cognitive Neuroscience
+IS  - 10
+SN  - 0898-929X
+VO  - 35
+VL  - 35
+JA  - Journal of Cognitive Neuroscience
+Y1  - 1 Oct. 2023
+AB  - Communicative gaze (e.g., mutual or averted) has been shown to affect attentional orienting. However, no study to date has clearly separated the neural basis of the pure social component that modulates attentional orienting in response to communicative gaze from other processes that might be a combination of attentional and social effects. We used TMS to isolate the purely social effects of communicative gaze on attentional orienting. Participants completed a gaze-cueing task with a humanoid robot who engaged either in mutual or in averted gaze before shifting its gaze. Before the task, participants received either sham stimulation (baseline), stimulation of right TPJ (rTPJ), or dorsomedial prefrontal cortex (dmPFC). Results showed, as expected, that communicative gaze affected attentional orienting in baseline condition. This effect was not evident for rTPJ stimulation. Interestingly, stimulation to rTPJ also canceled out attentional orienting altogether. On the other hand, dmPFC stimulation eliminated the socially driven difference in attention orienting between the two gaze conditions while maintaining the basic general attentional orienting effect. Thus, our results allowed for separation of the pure social effect of communicative gaze on attentional orienting from other processes that are a combination of social and generic attentional components.
+ER  - 
+
+
