@@ -30,11 +30,11 @@ def main():
     if doi_list:
         if output_path:     # output dois to the output path
             merge.save_dois_to_file(doi_list, output_path)
+            print("The Length of DOI List:", len(doi_list))
         else:               # output dois to the screen
             print("DOI List:")
             print_dois_to_screen(doi_list)
             print("The Length of DOI List:", len(doi_list))
-
     else:
         print("No DOIs found.")
 
