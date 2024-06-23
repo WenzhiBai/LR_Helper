@@ -1,0 +1,434 @@
+TY  - JOUR
+TI  - Development and Validation of a Novel Calibration Methodology and Control Approach for Robot-Aided Transcranial Magnetic Stimulation (TMS)
+AU  - Noccaro, A.
+AU  - Mioli, A.
+AU  - D'Alonzo, M.
+AU  - Pinardi, M.
+AU  - Pino, G. Di
+AU  - Formica, D.
+T2  - IEEE Transactions on Biomedical Engineering
+AB  - Objective: This article presents the development and validation of a new robotic system for Transcranial Magnetic Stimulation (TMS), characterized by a new control approach, and an ad-hoc calibration methodology, speciﬁcally devised for the TMS application. Methods: The robotic TMS platform is composed of a 7 dof manipulator, controlled by an impedance control, and a camera-based neuronavigation system. The proposed calibration method was optimized on the workspace useful for the speciﬁc TMS application (spherical shell around the subject’s head), and tested on three different hand-eye and robot-world calibration algorithms. The platform functionality was tested on six healthy subjects during a real TMS procedure, over the left primary motor cortex. Results: employing our method signiﬁcantly decreases (p < 0.001) the calibration error by 34% for the position and 19% for the orientation. The robotic TMS platform achieved greater orientation accuracy than the expert operators, signiﬁcantly reducing orientation errors by 46% (p < 0.001). No signiﬁcant differences were found in the position errors and in the amplitude of the motor evoked potentials (MEPs) between the robot-aided TMS and the expert operators. Conclusion: The proposed calibration represents a valid method to signiﬁcantly reduce the calibration errors in robot-aided TMS applications. Results showed the efﬁcacy of the proposed platform (including the control algorithm) in administering a real TMS procedure, achieving better coil positioning than expert operators, and similar results in terms of MEPs. Signiﬁcance: This article spotlights how to improve the performance of a robotic TMS platform, providing a reproducible and lowcost alternative to the few devices commercially available.
+DA  - 2021/05//
+PY  - 2021
+DO  - 10.1109/TBME.2021.3055434
+DP  - DOI.org (Crossref)
+VL  - 68
+IS  - 5
+SP  - 1589
+EP  - 1600
+J2  - IEEE Trans. Biomed. Eng.
+LA  - en
+SN  - 0018-9294, 1558-2531
+UR  - https://ieeexplore.ieee.org/document/9340370/
+Y2  - 2024/05/13/13:48:23
+KW  - *****
+KW  - robot-assisted
+KW  - TMS
+ER  - 
+
+TY  - JOUR
+TI  - Navigated transcranial magnetic stimulation
+AU  - Ruohonen, J.
+AU  - Karhu, J.
+T2  - Neurophysiologie Clinique/Clinical Neurophysiology
+AB  - Transcranial magnetic stimulation (TMS) is a unique method for non-invasive brain imaging. The fundamental difference between TMS and other available non-invasive brain imaging techniques is that when a physiological response is evoked by stimulation of a cortical area, that specific cortical area is causally related to the response. With other imaging methods, it is only possible to detect and map a brain area that participates in a given task or reaction. TMS has been shown to be clinically accurate and effective in mapping cortical motor areas and applicable to the functional assessment of motor tracts following stroke, for example. Many hundreds of studies have been published indicating that repetitive TMS (rTMS) may also have multiple therapeutic applications. Techniques and protocols for individually targeting and dosing rTMS urgently need to be developed in order to ascertain the accuracy, repeatability and reproducibility required of TMS in clinical applications. We review the basic concepts behind navigated TMS and evaluate the currently accepted physical and physiological factors contributing to the accuracy and reproducibility of navigated TMS. The advantages of navigated TMS over functional MRI in motor cortex mapping are briefly discussed. Illustrative cases utilizing navigated TMS are shown in presurgical mapping of the motor cortex, in therapy for depression, and in the follow-up of recovery from stroke.
+Résumé
+La stimulation magnétique transcrânienne (SMT) constitue une méthode unique d’imagerie cérébrale non invasive. La différence fondamentale entre la SMT et les autres méthodes d’imagerie non invasives réside dans le fait que, lorsqu’une réponse physiologique est évoquée par la stimulation d’une région donnée du cortex cérébral, cela signifie que cette région spécifique est « causalement » reliée à la réponse, les autres techniques d’imagerie ne permettant de cartographier que les régions qui « participent » à une tâche ou une réaction. Par exemple, on a démontré l’efficacité et l’utilité clinique de la SMT pour la cartographie des aires corticales motrices et l’évaluation des voies motrices après un accident vasculaire cérébral. Plusieurs centaines d’études publiées démontrent que la SMT répétitive (SMTr) présente également de multiples applications thérapeutiques potentielles. Il est urgent, si l’on veut évaluer l’exactitude, la répétabilité et la reproductibilité de la SMTr, que l’on dispose de techniques et de protocoles de ciblage et de dosage individuel de la SMTr. Dans cet article, nous examinons les concepts de base sous-tendant la SMT assistée par navigation et évaluons les facteurs physiques et physiologiques considérés comme contribuant à la précision et à la reproductibilité de la technique. Nous discutons brièvement des avantages de la SMT assistée par navigation par rapport à l’IRM fonctionnelle en vue de la cartographie du cortex moteur. Nous illustrons cela par des exemples cliniques d’évaluation préchirurgicale du cortex moteur, de traitement de la dépression et du suivi de la récupération d’accidents vasculaires cérébraux.
+DA  - 2010/03/01/
+PY  - 2010
+DO  - 10.1016/j.neucli.2010.01.006
+DP  - ScienceDirect
+VL  - 40
+IS  - 1
+SP  - 7
+EP  - 17
+J2  - Neurophysiologie Clinique/Clinical Neurophysiology
+SN  - 0987-7053
+UR  - https://www.sciencedirect.com/science/article/pii/S0987705310000079
+Y2  - 2024/05/31/16:03:34
+ER  - 
+
+TY  - JOUR
+TI  - Optimizing Functional Accuracy of TMS in Cognitive Studies: A Comparison of Methods
+AU  - Sack, Alexander T.
+AU  - Cohen Kadosh, Roi
+AU  - Schuhmann, Teresa
+AU  - Moerel, Michelle
+AU  - Walsh, Vincent
+AU  - Goebel, Rainer
+T2  - Journal of Cognitive Neuroscience
+AB  - Abstract
+            Transcranial magnetic stimulation (TMS) is a tool for inducing transient disruptions of neural activity noninvasively in conscious human volunteers. In recent years, the investigative domain of TMS has expanded and now encompasses causal structure–function relationships across the whole gamut of cognitive functions and associated cortical brain regions. Consequently, the importance of how to determine the target stimulation site has increased and a number of alternative methods have emerged. Comparison across studies is precluded because different studies necessarily use different tasks, sites, TMS conditions, and have different goals. Here, therefore, we systematically compare four commonly used TMS coil positioning approaches by using them to induce behavioral change in a single cognitive study. Specifically, we investigated the behavioral impact of right parietal TMS during a number comparison task, while basing TMS localization either on (i) individual fMRI-guided TMS neuronavigation, (ii) individual MRI-guided TMS neuronavigation, (iii) group functional Talairach coordinates, or (iv) 10–20 EEG position P4. We quantified the exact behavioral effects induced by TMS using each approach, calculated the standardized experimental effect sizes, and conducted a statistical power analysis in order to calculate the optimal sample size required to reveal statistical significance. Our findings revealed a systematic difference between the four approaches, with the individual fMRI-guided TMS neuronavigation yielding the strongest and the P4 stimulation approach yielding the smallest behavioral effect size. Accordingly, power analyses revealed that although in the fMRI-guided neuronavigation approach five participants were sufficient to reveal a significant behavioral effect, the number of necessary participants increased to n = 9 when employing MRI-guided neuronavigation, to n = 13 in case of TMS based on group Talairach coordinates, and to n = 47 when applying TMS over P4. We discuss these graded effect size differences in light of the revealed interindividual variances in the actual target stimulation site within and between approaches.
+DA  - 2009/02/01/
+PY  - 2009
+DO  - 10.1162/jocn.2009.21126
+DP  - DOI.org (Crossref)
+VL  - 21
+IS  - 2
+SP  - 207
+EP  - 221
+LA  - en
+SN  - 0898-929X, 1530-8898
+ST  - Optimizing Functional Accuracy of TMS in Cognitive Studies
+UR  - https://direct.mit.edu/jocn/article/21/2/207/4639/Optimizing-Functional-Accuracy-of-TMS-in-Cognitive
+Y2  - 2024/05/31/16:57:10
+L1  - http://www.brainstimulation.columbia.edu/doc/journal_club/papers/sack_cogn_neurosci_2009.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Accuracy of an individualized MR-based head model for navigated brain stimulation
+AU  - Carducci, Filippo
+AU  - Brusco, Rossana
+T2  - Psychiatry Research: Neuroimaging
+AB  - In the search for a less expensive alternative to magnetic resonance imaging (MRI), which is contraindicated in some patients, we evaluated the accuracy of an individualized MR template-based head model in terms of navigated brain stimulation system targeting. The mean error between the identification of target points on individualized and individual (gold standard) head models was found to be 4.69±2.21mm (arithmetic mean), i.e., more comparable to the values reported for individual MRI-based than for MR-independent approaches.
+DA  - 2012/07/30/
+PY  - 2012
+DO  - 10.1016/j.pscychresns.2011.12.013
+DP  - ScienceDirect
+VL  - 203
+IS  - 1
+SP  - 105
+EP  - 108
+J2  - Psychiatry Research: Neuroimaging
+SN  - 0925-4927
+UR  - https://www.sciencedirect.com/science/article/pii/S0925492711003982
+Y2  - 2024/06/01/14:07:24
+ER  - 
+
+TY  - CONF
+TI  - Evaluation of Hand-Eye and Robot-World Calibration Algorithms for TMS Application
+AU  - Noccaro, A.
+AU  - Raiano, L.
+AU  - Di Pino, G.
+AU  - Formica, D.
+T2  - 2018 7th IEEE International Conference on Biomedical Robotics and Biomechatronics (Biorob)
+AB  - In this paper we compare three approaches to solve the hand-eye and robot-world calibration problem, for their application to a Transcranial Magnetic Stimulation (TMS) system. The selected approaches are: i) non-orthogonal approach (QR24); ii) stochastic global optimization (SGO); iii) quaternion-based (QUAT) method. Performance were evaluated in term of translation and rotation errors, and computational time. The experimental setup is composed of a 7 dof Panda robot (by Franka Emika GmbH) and a Polaris Vicra camera (by Northern Digital Inc) combined with the SofTaxic Optic software (by E.M.S. srl). The SGO method resulted to have the best performance, since it provides lowest errors and high stability over different datasets and number of calibration points. The only drawback is its computational time, which is higher than the other two, but this parameter is not relevant for TMS application. Over the different dataset used in our tests, the small workspace (sphere with radius of 0.05m) and a number of calibration points around 150 allow to achieve the best performance with the SGO method, with an average error of 0.83 ± 0.35mm for position and 0.22 ± 0.12deg for orientation.
+C1  - Enschede
+C3  - 2018 7th IEEE International Conference on Biomedical Robotics and Biomechatronics (Biorob)
+DA  - 2018/08//
+PY  - 2018
+DO  - 10.1109/BIOROB.2018.8487930
+DP  - DOI.org (Crossref)
+SP  - 1115
+EP  - 1119
+LA  - en
+PB  - IEEE
+SN  - 978-1-5386-8183-1
+UR  - https://ieeexplore.ieee.org/document/8487930/
+Y2  - 2024/06/01/14:10:59
+L1  - https://ieeexplore-ieee-org.manchester.idm.oclc.org/stampPDF/getPDF.jsp?tp=&arnumber=8487930&ref=
+ER  - 
+
+TY  - JOUR
+TI  - Transcranial magnetic stimulation and the challenge of coil placement: A comparison of conventional and stereotaxic neuronavigational strategies
+AU  - Sparing, Roland
+AU  - Buelte, Dorothee
+AU  - Meister, Ingo G.
+AU  - Pauš, Tomás
+AU  - Fink, Gereon R.
+T2  - Human Brain Mapping
+AB  - The combination of transcranial magnetic stimulation (TMS) with functional neuroimaging has expanded the potential of TMS for human brain mapping. The precise and reliable positioning of the TMS coil is not a simple task, however. Modern frameless stereotaxic systems allow investigators to base navigation either on the subject's structural magnetic resonance imaging (MRI), functional MRI data, or the use of functional neuroimaging data from the literature, so-called “probabilistic approach.” The latter assumes consistency across individuals in the location of task-related “activations” in standardized stereotaxic space. Conventional nonstereotaxic localization of brain areas is also a common method for defining the coil position. Our aim was to evaluate the accuracy of five different localization strategies in one single study. The left primary motor cortex (left M1-Hand) was used as target region. Three approaches were based on real-time frameless stereotaxy using information based on either anatomical or functional MRI. The remaining two strategies relied either on standard cranial landmarks (i.e., the International 10–20 EEG system) or a standardized function-guided procedure (i.e., the spatial relationship between the left and right M1-Hand). The results were compared to a TMS-based mapping of the primary motor cortex; center of gravity of motor-evoked potentials (MEP-CoG) was calculated for each subject (n = 10). Our findings suggest that highest precision can be achieved with fMRI-guided stimulation, which was accurate within the range of millimeters. Very consistent results were also obtained with the “probabilistic” approach. In view of these findings, we discuss the methods and special characteristics of each localization strategy. Hum Brain Mapp, 2008. © 2007 Wiley-Liss, Inc.
+DA  - 2008///
+PY  - 2008
+DO  - 10.1002/hbm.20360
+DP  - Wiley Online Library
+VL  - 29
+IS  - 1
+SP  - 82
+EP  - 96
+LA  - en
+SN  - 1097-0193
+ST  - Transcranial magnetic stimulation and the challenge of coil placement
+UR  - https://onlinelibrary.wiley.com/doi/abs/10.1002/hbm.20360
+Y2  - 2024/06/04/16:00:49
+L1  - https://europepmc.org/articles/pmc6871049?pdf=render
+KW  - TMS
+KW  - ****
+KW  - Neuro Navigation
+ER  - 
+
+TY  - JOUR
+TI  - Active Head Motion Compensation of TMS Robotic System Using Neuro-Fuzzy Estimation
+AU  - Wan Zakaria, W.N.
+AU  - Tomari, Razali
+AU  - Ngadengon, Rafidah
+T2  - MATEC Web of Conferences
+A2  - Kavakli, M.
+A2  - Salami, M.J.E.
+A2  - Amini, A.
+A2  - Basri, M.A.B.M.
+A2  - Masli, A.B.
+A2  - Li, S.C.H.
+A2  - Pal, M.
+AB  - Transcranial Magnetic Stimulation (TMS) allows neuroscientist to study human brain behaviour and also become an important technique for changing the activity of brain neurons and the functions they sub serve. However, conventional manual procedure and robotized TMS are currently unable to precisely position the TMS coil because of unconstrained subject’s head movement and excessive contact force between the coil and subject’s head. This paper addressed this challenge by proposing an adaptive neuro-fuzzy force control to enable low contact force with a moving target surface. A learning and adaption mechanism is included in the control scheme to improve position disturbance estimation. The results show the ability of the proposed force control scheme to compensate subject’s head motions while maintaining desired contact force, thus allowing for more accurate and repeatable TMS procedures.
+DA  - 2016///
+PY  - 2016
+DO  - 10.1051/matecconf/20165607001
+DP  - DOI.org (Crossref)
+VL  - 56
+SP  - 07001
+J2  - MATEC Web of Conferences
+LA  - en
+SN  - 2261-236X
+UR  - http://www.matec-conferences.org/10.1051/matecconf/20165607001
+Y2  - 2024/06/04/16:26:06
+L1  - https://www.matec-conferences.org/articles/matecconf/pdf/2016/19/matecconf_iccae2016_07001.pdf
+KW  - **
+KW  - robot-assisted
+KW  - TMS
+ER  - 
+
+TY  - JOUR
+TI  - Optimal Coil Orientation for Transcranial Magnetic Stimulation
+AU  - Richter, Lars
+AU  - Neumann, Gunnar
+AU  - Oung, Stephen
+AU  - Schweikard, Achim
+AU  - Trillenberg, Peter
+T2  - PLoS ONE
+A2  - Wenderoth, Nicole
+DA  - 2013/04/11/
+PY  - 2013
+DO  - 10.1371/journal.pone.0060358
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 4
+SP  - e60358
+J2  - PLoS ONE
+LA  - en
+SN  - 1932-6203
+UR  - https://dx.plos.org/10.1371/journal.pone.0060358
+Y2  - 2024/06/04/16:39:10
+L1  - https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0060358&type=printable
+KW  - TMS
+KW  - *
+ER  - 
+
+TY  - JOUR
+TI  - Accurate Coil Positioning is Important for Single and Paired Pulse TMS on the Subject Level
+AU  - De Goede, Annika A.
+AU  - Ter Braack, Esther M.
+AU  - Van Putten, Michel J. A. M.
+T2  - Brain Topography
+AB  - Function-guided navigation is commonly used when assessing cortical excitability using transcranial magnetic stimulation (TMS). However, the required accuracy, stability and the effect of a change in coil positioning are not entirely known. This study investigates the accuracy of function-guided navigation for determining the hotspot. Furthermore, it evaluates the effect of a change in coil location on the single and paired pulse excitability measures: motor evoked potential (MEP) amplitude, TMS evoked potential (TEP) and long intracortical inhibition (LICI), and of a change in coil orientation on LICI. Eight healthy subjects participated in the single pulse study, and ten in the paired pulse study. A robot-guided navigation system was used to ensure accurate and stable coil positioning at the motor hotspot as determined using function-guided navigation. In addition, we targeted four locations at 2 mm and four at 5 mm distance around the initially defined hotspot, and we increased and decreased the coil orientation by 10°. In none of the subjects, the largest MEP amplitudes were evoked at the originally determined hotspot, resulting in a poor accuracy of function-guided navigation. At the group level, a change in coil location had no significant effect on the MEP amplitude, TEP, or LICI, and a change in coil orientation did not significantly affected LICI. However, at the subject level significant effects on MEP amplitude, TEP, and LICI were found for changes in coil location or orientation, although absolute differences were relatively small and did not show a consistent pattern. This study indicates that a high accuracy in coil positioning is especially required to measure cortical excitability reliably in individual subjects using single or paired pulse TMS.
+DA  - 2018/11//
+PY  - 2018
+DO  - 10.1007/s10548-018-0655-6
+DP  - DOI.org (Crossref)
+VL  - 31
+IS  - 6
+SP  - 917
+EP  - 930
+J2  - Brain Topogr
+LA  - en
+SN  - 0896-0267, 1573-6792
+UR  - http://link.springer.com/10.1007/s10548-018-0655-6
+Y2  - 2024/06/04/16:45:43
+L1  - https://link.springer.com/content/pdf/10.1007/s10548-018-0655-6.pdf
+KW  - TMS
+KW  - robot-assisted
+KW  - ****
+ER  - 
+
+TY  - JOUR
+TI  - Clinical diagnostic utility of transcranial magnetic stimulation in neurological disorders. Updated report of an IFCN committee
+AU  - Vucic, Steve
+AU  - Stanley Chen, Kai-Hsiang
+AU  - Kiernan, Matthew C.
+AU  - Hallett, Mark
+AU  - Benninger, David.H.
+AU  - Di Lazzaro, Vincenzo
+AU  - Rossini, Paolo M
+AU  - Benussi, Alberto
+AU  - Berardelli, Alfredo
+AU  - Currà, Antonio
+AU  - Krieg, Sandro M
+AU  - Lefaucheur, Jean-Pascal
+AU  - Long Lo, Yew
+AU  - Macdonell, Richard A
+AU  - Massimini, Marcello
+AU  - Rosanova, Mario
+AU  - Picht, Thomas
+AU  - Stinear, Cathy M
+AU  - Paulus, Walter
+AU  - Ugawa, Yoshikazu
+AU  - Ziemann, Ulf
+AU  - Chen, Robert
+T2  - Clinical Neurophysiology
+DA  - 2023/06//
+PY  - 2023
+DO  - 10.1016/j.clinph.2023.03.010
+DP  - DOI.org (Crossref)
+VL  - 150
+SP  - 131
+EP  - 175
+J2  - Clinical Neurophysiology
+LA  - en
+SN  - 13882457
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1388245723002377
+Y2  - 2024/06/06/16:42:24
+ER  - 
+
+TY  - JOUR
+TI  - A practical guide to diagnostic transcranial magnetic stimulation: Report of an IFCN committee
+AU  - Groppa, S.
+AU  - Oliviero, A.
+AU  - Eisen, A.
+AU  - Quartarone, A.
+AU  - Cohen, L.G.
+AU  - Mall, V.
+AU  - Kaelin-Lang, A.
+AU  - Mima, T.
+AU  - Rossi, S.
+AU  - Thickbroom, G.W.
+AU  - Rossini, P.M.
+AU  - Ziemann, U.
+AU  - Valls-Solé, J.
+AU  - Siebner, H.R.
+T2  - Clinical Neurophysiology
+AB  - Transcranial magnetic stimulation (TMS) is an established neurophysiological tool to examine the integrity of the fast-conducting corticomotor pathways in a wide range of diseases associated with motor dysfunction. This includes but is not limited to patients with multiple sclerosis, amyotrophic lateral sclerosis, stroke, movement disorders, disorders affecting the spinal cord, facial and other cranial nerves. These guidelines cover practical aspects of TMS in a clinical setting. We ﬁrst discuss the technical and physiological aspects of TMS that are relevant for the diagnostic use of TMS. We then lay out the general principles that apply to a standardized clinical examination of the fast-conducting corticomotor pathways with single-pulse TMS. This is followed by a detailed description of how to examine corticomotor conduction to the hand, leg, trunk and facial muscles in patients. Additional sections cover safety issues, the triple stimulation technique, and neuropediatric aspects of TMS.
+DA  - 2012/05//
+PY  - 2012
+DO  - 10.1016/j.clinph.2012.01.010
+DP  - DOI.org (Crossref)
+VL  - 123
+IS  - 5
+SP  - 858
+EP  - 882
+J2  - Clinical Neurophysiology
+LA  - en
+SN  - 13882457
+ST  - A practical guide to diagnostic transcranial magnetic stimulation
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1388245712000569
+Y2  - 2024/06/10/13:29:31
+ER  - 
+
+TY  - JOUR
+TI  - Safety and recommendations for TMS use in healthy subjects and patient populations, with updates on training, ethical and regulatory issues: Expert Guidelines
+AU  - Rossi, Simone
+AU  - Antal, Andrea
+AU  - Bestmann, Sven
+AU  - Bikson, Marom
+AU  - Brewer, Carmen
+AU  - Brockmöller, Jürgen
+AU  - Carpenter, Linda L.
+AU  - Cincotta, Massimo
+AU  - Chen, Robert
+AU  - Daskalakis, Jeff D.
+AU  - Di Lazzaro, Vincenzo
+AU  - Fox, Michael D.
+AU  - George, Mark S.
+AU  - Gilbert, Donald
+AU  - Kimiskidis, Vasilios K.
+AU  - Koch, Giacomo
+AU  - Ilmoniemi, Risto J.
+AU  - Lefaucheur, Jean Pascal
+AU  - Leocani, Letizia
+AU  - Lisanby, Sarah H.
+AU  - Miniussi, Carlo
+AU  - Padberg, Frank
+AU  - Pascual-Leone, Alvaro
+AU  - Paulus, Walter
+AU  - Peterchev, Angel V.
+AU  - Quartarone, Angelo
+AU  - Rotenberg, Alexander
+AU  - Rothwell, John
+AU  - Rossini, Paolo M.
+AU  - Santarnecchi, Emiliano
+AU  - Shafi, Mouhsin M.
+AU  - Siebner, Hartwig R.
+AU  - Ugawa, Yoshikatzu
+AU  - Wassermann, Eric M.
+AU  - Zangen, Abraham
+AU  - Ziemann, Ulf
+AU  - Hallett, Mark
+T2  - Clinical Neurophysiology
+AB  - This article is based on a consensus conference, promoted and supported by the International Federation of Clinical Neurophysiology (IFCN), which took place in Siena (Italy) in October 2018. The meeting intended to update the ten-year-old safety guidelines for the application of transcranial magnetic stimulation (TMS) in research and clinical settings (Rossi et al., 2009). Therefore, only emerging and new issues are covered in detail, leaving still valid the 2009 recommendations regarding the description of conventional or patterned TMS protocols, the screening of subjects/patients, the need of neurophysiological monitoring for new protocols, the utilization of reference thresholds of stimulation, the managing of seizures and the list of minor side effects.
+DA  - 2021/01//
+PY  - 2021
+DO  - 10.1016/j.clinph.2020.10.003
+DP  - DOI.org (Crossref)
+VL  - 132
+IS  - 1
+SP  - 269
+EP  - 306
+J2  - Clinical Neurophysiology
+LA  - en
+SN  - 13882457
+ST  - Safety and recommendations for TMS use in healthy subjects and patient populations, with updates on training, ethical and regulatory issues
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1388245720305149
+Y2  - 2024/06/10/13:29:41
+ER  - 
+
+TY  - JOUR
+TI  - Training in the practice of noninvasive brain stimulation: Recommendations from an IFCN committee
+AU  - Fried, Peter J.
+AU  - Santarnecchi, Emiliano
+AU  - Antal, Andrea
+AU  - Bartres-Faz, David
+AU  - Bestmann, Sven
+AU  - Carpenter, Linda L.
+AU  - Celnik, Pablo
+AU  - Edwards, Dylan
+AU  - Farzan, Faranak
+AU  - Fecteau, Shirley
+AU  - George, Mark S.
+AU  - He, Bin
+AU  - Kim, Yun-Hee
+AU  - Leocani, Letizia
+AU  - Lisanby, Sarah H.
+AU  - Loo, Colleen
+AU  - Luber, Bruce
+AU  - Nitsche, Michael A.
+AU  - Paulus, Walter
+AU  - Rossi, Simone
+AU  - Rossini, Paolo M.
+AU  - Rothwell, John
+AU  - Sack, Alexander T.
+AU  - Thut, Gregor
+AU  - Ugawa, Yoshikazu
+AU  - Ziemann, Ulf
+AU  - Hallett, Mark
+AU  - Pascual-Leone, Alvaro
+T2  - Clinical Neurophysiology
+AB  - As the ﬁeld of noninvasive brain stimulation (NIBS) expands, there is a growing need for comprehensive guidelines on training practitioners in the safe and effective administration of NIBS techniques in their various research and clinical applications. This article provides recommendations on the structure and content of this training. Three different types of practitioners are considered (Technicians, Clinicians, and Scientists), to attempt to cover the range of education and responsibilities of practitioners in NIBS from the laboratory to the clinic. Basic or core competencies and more advanced knowledge and skills are discussed, and recommendations offered regarding didactic and practical curricular components. We encourage individual licensing and governing bodies to implement these guidelines.
+DA  - 2021/03//
+PY  - 2021
+DO  - 10.1016/j.clinph.2020.11.018
+DP  - DOI.org (Crossref)
+VL  - 132
+IS  - 3
+SP  - 819
+EP  - 837
+J2  - Clinical Neurophysiology
+LA  - en
+SN  - 13882457
+ST  - Training in the practice of noninvasive brain stimulation
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S1388245720305757
+Y2  - 2024/06/10/13:29:43
+ER  - 
+
+TY  - JOUR
+TI  - The coil orientation dependency of the electric field induced by TMS for M1 and other brain areas
+AU  - Janssen, Arno M
+AU  - Oostendorp, Thom F
+AU  - Stegeman, Dick F
+T2  - Journal of NeuroEngineering and Rehabilitation
+AB  - Background: The effectiveness of transcranial magnetic stimulation (TMS) depends highly on the coil orientation relative to the subject’s head. This implies that the direction of the induced electric field has a large effect on the efficiency of TMS. To improve future protocols, knowledge about the relationship between the coil orientation and the direction of the induced electric field on the one hand, and the head and brain anatomy on the other hand, seems crucial. Therefore, the induced electric field in the cortex as a function of the coil orientation has been examined in this study.
+Methods: The effect of changing the coil orientation on the induced electric field was evaluated for fourteen cortical targets. We used a finite element model to calculate the induced electric fields for thirty-six coil orientations (10 degrees resolution) per target location. The effects on the electric field due to coil rotation, in combination with target site anatomy, have been quantified.
+Results: The results confirm that the electric field perpendicular to the anterior sulcal wall of the central sulcus is highly susceptible to coil orientation changes and has to be maximized for an optimal stimulation effect of the motor cortex. In order to obtain maximum stimulation effect in areas other than the motor cortex, the electric field perpendicular to the cortical surface in those areas has to be maximized as well. Small orientation changes (10 degrees) do not alter the induced electric field drastically.
+Conclusions: The results suggest that for all cortical targets, maximizing the strength of the electric field perpendicular to the targeted cortical surface area (and inward directed) optimizes the effect of TMS. Orienting the TMS coil based on anatomical information (anatomical magnetic resonance imaging data) about the targeted brain area can improve future results. The standard coil orientations, used in cognitive and clinical neuroscience, induce (near) optimal electric fields in the subject-specific head model in most cases.
+DA  - 2015/12//
+PY  - 2015
+DO  - 10.1186/s12984-015-0036-2
+DP  - DOI.org (Crossref)
+VL  - 12
+IS  - 1
+SP  - 47
+J2  - J NeuroEngineering Rehabil
+LA  - en
+SN  - 1743-0003
+UR  - https://jneuroengrehab.biomedcentral.com/articles/10.1186/s12984-015-0036-2
+Y2  - 2024/06/12/22:46:33
+ER  - 
+
